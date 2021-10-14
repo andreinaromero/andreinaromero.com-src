@@ -24,7 +24,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: andreinaromero/andreinaromero.github.io
+          external_repository: andreinaromero/andreinaromero.github.com
           user_name: andreinaromero
           user_email: andreinar@gmail.com
           publish_branch: master
