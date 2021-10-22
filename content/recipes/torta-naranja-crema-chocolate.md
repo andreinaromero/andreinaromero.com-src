@@ -2,7 +2,7 @@
 title: "Torta de naranja con crema de chocolate"
 date: 2021-10-12T09:16:29-05:00
 ---
-![Torta decorada](../images/tortaadornada.jpg)
+![Torta decorada](../../images/tortaadornada.jpg)
 ___
 ### Torta
 
