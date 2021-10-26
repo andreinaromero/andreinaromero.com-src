@@ -33,7 +33,7 @@ ___
 | Cacao | 100 grs |
 | Sal | una pizca |
 
-Puedes ver el procedimiento completo aquí: [VIdeo de Youtube](https://youtu.be/5DnSKTWycBY)
+Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/5DnSKTWycBY)
 
 ### Procedimiento
 - Precalentar el horno a 180 C

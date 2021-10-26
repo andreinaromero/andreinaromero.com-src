@@ -34,7 +34,7 @@ ___
 | Café instantáneo | 3 cucharadas |
 | Azúcar pulverizada | 150 grs |
 
-Puedes ver el procedimiento completo aquí: [VIdeo de Youtube](https://youtu.be/n4RQmWyIW0s)
+Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/n4RQmWyIW0s)
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 180 C
