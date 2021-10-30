@@ -1,7 +1,6 @@
 ---
-title: "Brownie Chicludo con Arequipe Sin Azucar"
+title: "Brownie Chicludo con Arequipe Sin Azúcar"
 date: 2021-10-25T19:55:11-05:00
-draft: true
 ---
 ![Torta decorada](../../images/browniesconarequipe.jpg)
 ___
