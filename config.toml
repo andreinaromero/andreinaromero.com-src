@@ -1,6 +1,6 @@
 baseURL = "https://andreinaromero.com/"
 
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+disableKinds = ["robotsTXT"]
 
 defaultContentLanguage = "en"
 

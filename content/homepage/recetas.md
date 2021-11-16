@@ -8,10 +8,11 @@ En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas de mantequilla rellenas con merengue suizo de arándanos](recipes/galletas_mantequilla_con_merengue_de_arandanos)
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Brownie chicludo con arequipe sin azúcar](recipes/brownie-chicludo-arequipe-sin-azucar)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas de avena y zanahoria](recipes/galletas_avena_y_zanahoria)
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de naranja con crema de chocolate](recipes/torta-naranja-crema-chocolate)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Brownie chicludo con arequipe sin azúcar](recipes/brownie-chicludo-arequipe-sin-azucar)
 __________________________________________
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Ver más recetas](recipes)
 
 Te invito a que las practiques y me cuentes de tus resultados!
 
