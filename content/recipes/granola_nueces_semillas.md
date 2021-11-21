@@ -35,4 +35,5 @@ Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/
 ### Tips 
 - Podemos reemplazar el sirope de dátiles por: miel, sirope de yacón o algún otro sirope para endulzar de tu preferencia
 - Puedes cambiar los frutos secos a tu preferencia y así tener diferentes versiones de esta granola tan deli
+- Recuerda esparcir muy bien la granola por toda la bandeja, así se horneará más pareja
 - Para acompañar un yogurt y frutas está sensacional
