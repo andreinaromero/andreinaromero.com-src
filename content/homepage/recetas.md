@@ -6,11 +6,12 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Granola casera de nueces y semillas](recipes/granola_nueces_semillas)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas de mantequilla rellenas con merengue suizo de arándanos](recipes/galletas_mantequilla_con_merengue_de_arandanos)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas de avena y zanahoria](recipes/galletas_avena_y_zanahoria)
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Brownie chicludo con arequipe sin azúcar](recipes/brownie-chicludo-arequipe-sin-azucar)
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Ver más recetas](recipes)
 
