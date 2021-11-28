@@ -27,6 +27,8 @@ ___
 | Colorante rosado | 1 gota |
 ___
 
+Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/RZx7rSPH8Zc)
+
 ### Procedimiento de los macarons
 - En un bowl tamizar el azúcar pulverizada, la harina de almendra y remover muy bien
 - En otro bowl batir las claras a punto de nieve, cuando estén espumosas agregar el azúcar granulada poco a poco, yo la agregué en 3 tiempos 
