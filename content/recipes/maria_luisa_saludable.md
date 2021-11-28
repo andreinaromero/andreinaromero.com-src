@@ -29,6 +29,8 @@ ___
 | Limón | 2 |
 ___
 
+Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/fDybHl87ORk)
+
 ### Procedimiento de la torta
 - En un bowl agregar los huevos, el jugo de naranja, el aceite y la leche, yo utilicé leche de coco preparada en casa
 - Mezclar muy bien hasta integrar, yo usé globo batidor manual
@@ -40,12 +42,12 @@ ___
 - Luego desmoldar y dejarlos enfriar completamente en una rejilla preferiblemente
 
 ### Procedimiento de la mermelada
-- En un olla agregar todos los ingredientes, mezclar muy bien, yo usé frutas congeladas. Es válido usar también frutas frescas! 
+- En una olla agregar todos los ingredientes, mezclar muy bien, yo usé frutas congeladas. Es válido usar también frutas frescas! 
 - Colocar a fuego bajo y revolver constantemente por 10 minutos aproximadamente
 - Luego ir triturando las frutas usando un tenedor o un pisa puré y seguir revolviendo
 - La idea es que la mermelada nos quede espesa y bien linda
 - Cuando veamos que al pasar la espátula por el centro de la mermelada podamos apreciar el fondo de la olla entonces ya estará lista. Ver el video para que notes el punto.
-- Yo usé la mermelada así tal cual, sin licuar ni colar
+- Yo licué la mermelada antes de usar, sin colarla.
 
 ### A decorar!!!
 - Nivelar los bizcochos con la ayuda de un cuchillo o un cortador especial para pasteles
@@ -53,10 +55,10 @@ ___
 - Al final agreguemos un poco de edulcorante pulverizado en el tope de la torta
 
 ### Primer intento
-- Una torta deliciosa, suave húmeda me encantó
-- Yo utilicé un edulcorante llamado dolcerra, este edulcorante es a base de Sorbitol, a mi me cayó un poco pesado puede que sea un poco sensible a los polialcoholes, yo prefiero ensayar otro edulcorante como monk fruit o estevia o eritritol
-- Las tortas desmoldaron fácilmente, sin embargo, para un próximo intento yo utilizaría un papel parafinado en el fondo del molde para evitar
-- Alcanzamos las porciones requeridas de 18 a 20 porciones!!
-- En la parte superior de la torta noté que se absorvió todo el edulcorante, pienso que en este aspecto no es recomendable espolvorear edulcorante, yo colocaría azúcar antihumedad como sería solo un poco, no impactaría mucho si no va a ser consumida por diabéticos. Si la torta sería consumida por alguna persona diabética no espolvorear nada mejor.
+- Una torta deliciosa, suave, húmeda, me encantó y a todos los invitados del cumpleaños también!
+- Yo utilicé un edulcorante llamado dolcerra, este edulcorante es a base de Sorbitol, algunas personas somos más sensibles que otras a los edulcorantes de tipo polialcohol, tal es el caso del sorbitol. Yo preferiría ensayar otro edulcorante como monk fruit o estevia o eritritol.
+- Las tortas desmoldaron fácilmente, sin embargo, para un próximo intento yo utilizaría un papel parafinado en el fondo del molde para evitar que se peguen.
+- Alcanzamos las porciones requeridas: de 18 a 20 porciones!!
+- En la parte superior de la torta noté que se absorvió todo el edulcorante, pienso que en este aspecto no es recomendable espolvorear edulcorante. Yo colocaría azúcar antihumedad que no es cero calorías, pero como sería solo un poco, no impactaría mucho. OJO: si esta torta será consumida por alguna persona con diabetes por favor no colocar azúcar antihumedad y yo tampoco recomendaría aplicar edulcorante porque como mencioné antes, es absorvido por la torta y entonces no se nota el efecto decorativo.
 
 
