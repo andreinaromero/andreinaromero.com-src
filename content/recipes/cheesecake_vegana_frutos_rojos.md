@@ -1,7 +1,6 @@
 ---
 title: "Cheesecake vegana de frutos rojos"
 date: 2021-11-23T18:54:37-05:00
-draft: true
 ---
 ![Cheesecake de frutos rojos vegana](../../images/cheesecake_vegana_frutos_rojos.jpg)
 ___
