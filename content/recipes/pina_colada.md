@@ -3,7 +3,7 @@ title: "Piña Colada"
 date: 2021-12-08T20:49:08-05:00
 draft: true
 ---
-![Piña Colada](../../images/piña_colada.jpg)
+![Piña Colada](../../images/pina_colada.jpg)
 ___
 ### Ingredientes 
 
