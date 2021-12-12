@@ -1,9 +1,9 @@
 ---
-title: "Postre de tres chocolates navideño"
+title: "Postre navideño de tres chocolates"
 date: 2021-12-09T19:13:44-05:00
 draft: true
 ---
-![Postres 3 chocolates](../../images/galletas_avena_zanahoria.jpg)
+![Postres 3 chocolates](../../images/postres_tres_chocolates.jpg)
 ___
 ### Ingredientes - Medidas en gramos
 
@@ -12,19 +12,21 @@ ___
 | Galletas de figuras navideñas | 2 tazas PENDING |
 | Leche | 1/2 taza PENDING |
 | Ron | 1/2 cucharada |
+| Canela en polvo | 1/2 cucharadita |
 | Queso crema | 210 gramos |
-| Crema para batir | 300 gramos | 
+| Crema para batir | 300 ml | 
 | Chocolate oscuro | 150 gramos |
 | Chocolate con leche | 150 gramos |
 | Chocolate blanco | 150 gramos |
 
-### Galletas - Medidas en tazas 
+### Ingredientes - Medidas en tazas 
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
 | Galletas de figuras navideñas | 2 tazas |
 | Leche | 1/2 taza |
 | Ron | 1/2 cucharada |
+| Canela en polvo | 1/2 cucharadita |
 | Queso crema | 1 taza |
 | Crema para batir | 1 taza y 6 cucharadas | 
 | Chocolate oscuro | 1 taza |
@@ -35,7 +37,7 @@ ___
 
 ### Procedimiento
 - Preparar 4 recipientes de postres individuales
-- En un bowl revolver la leche con el ron
+- En un bowl revolver la leche con el ron y la canela
 - Remojar las galletas y usarlas como base de los moldes
 - En otro bowl apto para el calor colocar 1/3 de taza de queso crema (70 gramos), 100 ml de la crema para batir (1/3 taza con dos cucharadas) y el chocolate oscuro
 - Derretir a baño de maria, ir revolviendo con espátula de silicona para integrar
