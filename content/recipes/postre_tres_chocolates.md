@@ -9,8 +9,8 @@ ___
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
-| Galletas de figuras navideñas | 2 tazas PENDING |
-| Leche | 1/2 taza PENDING |
+| Galletas de figuras navideñas | 140 gramos |
+| Leche | 125 gramos |
 | Ron | 1/2 cucharada |
 | Canela en polvo | 1/2 cucharadita |
 | Queso crema | 210 gramos |
