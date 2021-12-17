@@ -5,7 +5,7 @@ draft: true
 ---
 ![Mini Torta Marmoleada](../../images/mini_torta_marmoleada.jpg)
 ___
-### Masa base
+### Torta base
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
@@ -43,14 +43,14 @@ Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/
 - Precarlentar el horno a 180 C
 - Engrasar con spray antiadherente el molde o los moldes que vas a usar
 - En un bowl agregar los huevos y batir hasta que estén espumosos, aproximadamente por 5 minutos, yo usé globo manual batidor
-- Agregar el azúcar y continuar batiendo hasta que los huevos blanqueen y se aireen más, aproximadamente por 5 minutos
-- Agregar el aceite en forma de hilo y continuar batiendo hasta que se integre, yo batí por 5 minutos aproximadamente
+- Agregar el azúcar y continuar batiendo hasta que los huevos aclaren su color y tengan aire, aproximadamente por 5 minutos más
+- Agregar el aceite en forma de hilo y continuar batiendo hasta que se integre
 - Agregar una pizca de sal y continuar batiendo
 - Aparte mezclar el yogurt con la vainilla y el ron 
-- Agregar los líquidos a los ingredientes de la mezcla
+- Agregar los líquidos a la mezcla
 - Aparte mezclar la harina con el polvo de hornear
 - Agregar los secos a la mezcla anterior y batir hasta integrar, nos podemos ayudar con espátula para terminar de integrar la harina
-- Dividir la masa en dos bowl con la misma cantidad de mezcla, nos podemos apoyar en una báscula para saber la cantidad exacta
+- Dividir la masa en dos bowl con la misma cantidad de mezcla, nos podemos apoyar en una báscula para saber la cantidad exacta O-O
 - Iremos a las estaciones vainilla y chocolate!!! 
 
 ### Estación vainilla
@@ -75,6 +75,7 @@ Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/
 - Usar sprinkles para añadir un toque de color
 
 ### Tips
-- Yo usé dos moldes de 12 cms de diámetro, otro molde recomendado es usar un único molde de 16 cms de diámetro
-- Para saber si la torta está se puede introducir el palillo a la torta y si sale seco entonces significa que la torta está lista!
-- Yo usé globo batidor manual en esta receta, si tú quieres usar una batidora eléctrica lo puedes usar siguiendo el mismo procedimiento
+- Yo usé dos moldes de 12 cms de diámetro
+- Esta misma mezcla la puedes preparar en un único molde de 16 cms de diámetro
+- Para saber si la torta está lista, se puede hacer la prueba del palillo
+- Yo usé globo batidor manual en esta receta, si tú quieres usar una batidora eléctrica la puedes usar siguiendo el mismo procedimiento
