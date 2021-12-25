@@ -1,7 +1,6 @@
 ---
 title: "Torta Marmoleada - Versión Grande"
 date: 2021-12-22T21:39:38-05:00
-draft: true
 ---
 ![Torta Marmoleada](../../images/torta_marmoleada.jpg)
 ___
