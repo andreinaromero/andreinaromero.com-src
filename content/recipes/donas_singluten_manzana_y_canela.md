@@ -1,6 +1,7 @@
 ---
 title: "Donas de manzana y canela libres de gluten"
 date: 2022-01-05T16:58:27-05:00
+categories: ["sin gluten", "donas"]
 ---
 ![Donas manzana y canela](../../images/donas_manzana_canela.jpg)
 ___

@@ -1,6 +1,7 @@
 ---
 title: "Galletas con chispas de chocolate"
 date: 2021-11-16T20:49:48-05:00
+categories: ["reposteria tradicional", "galletas"]
 ---
 ![Galletas con chispas de chocolate](../../images/galletas_chips_chocolate.jpg)
 ___

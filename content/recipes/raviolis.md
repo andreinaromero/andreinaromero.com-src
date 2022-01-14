@@ -1,6 +1,7 @@
 ---
 title: "Raviolis"
 date: 2021-12-08T11:19:48-05:00
+categories: ["hecho en casa"]
 ---
 ![Raviolis](../../images/raviolis.jpg)
 ___

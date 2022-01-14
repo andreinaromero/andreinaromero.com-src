@@ -1,6 +1,7 @@
 ---
 title: "Pink Macarons"
 date: 2021-11-26T17:51:20-05:00
+categories: ["reposteria tradicional", "macarons"]
 ---
 ![Pink macarons](../../images/pink_macarons.jpg)
 ___

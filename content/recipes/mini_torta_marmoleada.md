@@ -1,6 +1,7 @@
 ---
 title: "Mini Torta Marmoleada"
 date: 2021-12-16T19:28:40-05:00
+categories: ["reposteria tradicional", "tortas"]
 ---
 ![Mini Torta Marmoleada](../../images/mini_torta_marmoleada.jpg)
 ___

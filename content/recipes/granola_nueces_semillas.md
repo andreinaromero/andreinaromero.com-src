@@ -1,6 +1,7 @@
 ---
 title: "Granola de nueces y semillas"
 date: 2021-11-19T20:52:04-05:00
+categories: ["sin gluten", "reposteria saludable", "granolas"]
 ---
 ![Granola](../../images/granola_nueces_semillas.jpg)
 ___

@@ -1,6 +1,7 @@
 ---
 title: "Tiramisú"
 date: 2021-12-30T16:49:55-05:00
+categories: ["reposteria tradicional", "postres frios"]
 ---
 ![Tiramisú](../../images/tiramisu.jpg)
 ___

@@ -1,6 +1,7 @@
 ---
 title: "Galletas de avena y zanahoria"
 date: 2021-11-09T21:09:41-05:00
+categories: ["reposteria tradicional", "galletas"]
 ---
 ![Galletas avena y zanahoria](../../images/galletas_avena_zanahoria.jpg)
 ___

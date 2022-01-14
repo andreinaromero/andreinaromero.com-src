@@ -1,6 +1,7 @@
 ---
 title: "Torta Choco Café rellena y cubierta con Chantillly sabor a Café"
 date: 2021-10-22T10:24:44-05:00
+categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta decorada](../../images/tortachococafeadornada.jpg)
 ___

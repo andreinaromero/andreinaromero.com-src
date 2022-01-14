@@ -1,6 +1,7 @@
 ---
 title: "Torta de naranja con crema de chocolate"
 date: 2021-10-12T09:16:29-05:00
+categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta decorada](../../images/tortaadornada.jpg)
 ___

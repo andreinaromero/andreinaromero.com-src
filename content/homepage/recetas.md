@@ -12,7 +12,7 @@ En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta marmoleada](recipes/torta_marmoleada)
 __________________________________________
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Ver más recetas](recipes)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Ver más recetas](categories)
 
 Te invito a que las practiques y me cuentes de tus resultados!
 

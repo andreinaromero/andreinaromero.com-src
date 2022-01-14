@@ -1,6 +1,7 @@
 ---
 title: "Cheesecake vegana de frutos rojos"
 date: 2021-11-23T18:54:37-05:00
+categories: ["sin gluten", "reposteria saludable", "cheesecakes", "postres frios"]
 ---
 ![Cheesecake de frutos rojos vegana](../../images/cheesecake_vegana_frutos_rojos.jpg)
 ___

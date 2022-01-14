@@ -1,6 +1,7 @@
 ---
 title: "Postre navideño de tres chocolates"
 date: 2021-12-09T19:13:44-05:00
+categories: ["postres frios", "reposteria tradicional", "navidad"]
 ---
 ![Postres 3 chocolates](../../images/postres_tres_chocolates.jpg)
 ___
