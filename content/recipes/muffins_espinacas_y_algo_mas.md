@@ -1,7 +1,6 @@
 ---
 title: "Muffins de espinaca y algo más"
 date: 2022-01-24T19:43:24-05:00
-draft: true
 categories: ["hecho en casa", "desayunos"]
 ---
 ![Muffins de espinaca](../../images/muffins_espinaca.jpg)
