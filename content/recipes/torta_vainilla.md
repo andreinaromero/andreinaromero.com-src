@@ -1,7 +1,6 @@
 ---
 title: "Torta de Vainilla"
 date: 2022-01-25T13:45:15-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta de vainilla](../../images/tortavainilla.jpg)
