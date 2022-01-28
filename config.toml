@@ -38,3 +38,7 @@ title = "Andreina Romero -- Aprendamos juntos de repostería"
     [params.meta]
         keywords = "reposteria, recetas, tips, consejos"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

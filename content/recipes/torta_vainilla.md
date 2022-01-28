@@ -21,7 +21,8 @@ categories: ["reposteria tradicional", "tortas"]
 
 ___
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/loq-iCwa2lQ)
+Puedes ver el procedimiento completo aquí
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loq-iCwa2lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de la masa base
 - Precarlentar el horno a 170 C
