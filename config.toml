@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
+googleAnalytics = "G-X39ZRR83NV"
 
 # The "title" of your website
 title = "Andreina Romero -- Aprendamos juntos de repostería"
