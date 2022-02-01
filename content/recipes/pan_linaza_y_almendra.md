@@ -1,8 +1,7 @@
 ---
-title: "Pan de linaza y almendra"
+title: "Pan de linaza y almendra sin gluten"
 date: 2022-01-30T11:48:55-05:00
-draft: true
-categories: ["hecho en casa", "desayunos", "panes saludables"]
+categories: ["hecho en casa", "desayunos", "panes saludables", "sin gluten"]
 ---
 ![Pan de linaza y avena](../../images/pan_linaza_y_almendra.jpg)
 ___
