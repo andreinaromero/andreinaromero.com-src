@@ -9,6 +9,7 @@
 
       <h1 class="post-title">{{ .Title }}</h1>
       {{ range .Params.categories }}&nbsp;<a class="btn site-menu" href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+      {{ range .Params.tags }}&nbsp;<a class="btn site-menu" href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
       <section class="post-content">
         {{ .Content }}
       </section>
