@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Muffins de red velvet - Para celebrar el día de los enamorados](recipes/muffins_red_velvet)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Pan de linaza y almendra sin gluten](recipes/pan_linaza_y_almendra)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Vainilla](recipes/torta_vainilla)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Muffins de espinaca y algo más](recipes/muffins_espinacas_y_algo_mas)
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Ver más recetas](categories)
 

@@ -1,7 +1,6 @@
 ---
 title: "Muffins de red velvet con glaseado de queso crema"
 date: 2022-01-30T12:27:43-05:00
-draft: true
 categories: ["reposteria tradicional", "muffins", "dia de los enamorados", "red velvet"]
 ---
 ![Muffins red velvet](../../images/muffins_red_velvet.jpg)
@@ -33,7 +32,7 @@ categories: ["reposteria tradicional", "muffins", "dia de los enamorados", "red 
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://youtu.be/OIYrC7OOZQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIYrC7OOZQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de los muffins
 - Precarlentar el horno a 170 C
