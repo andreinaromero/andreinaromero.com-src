@@ -1,7 +1,6 @@
 ---
 title: "Torta Colorida"
 date: 2022-02-06T16:23:15-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta Colorida](../../images/torta_colorida.jpg)
@@ -52,7 +51,8 @@ ___
 | Vainilla | 1 cucharadita |
 ___
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](xxx)
+Puedes ver el procedimiento completo aquí: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p5BRvCN9vQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de la masa base
 - Precarlentar el horno a 180 C
