@@ -1,12 +1,7 @@
 {{ define "main" }}
+{{ template "partials/my_head.html" . }}
   <main class="content page-template page-{{ .Slug }}" role="main">
     <article class="post page">
-      <header class="post-header">
-        <a id="blog-logo" href="{{ "/" | relURL }}">
-          {{ .Site.Title }}
-        </a>
-      </header>
-
       <h1 class="post-title">{{ .Title }}</h1>
       {{ range .Params.categories }}&nbsp;<a class="btn site-menu" href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
       {{ range .Params.tags }}&nbsp;<a class="btn site-menu" href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
