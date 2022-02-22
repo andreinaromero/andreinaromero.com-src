@@ -1,7 +1,6 @@
 ---
 title: "Crema de Coliflor con un toque de marañones"
 date: 2022-02-20T12:03:38-05:00
-draft: true
 categories: ["hecho en casa", "cremas"]
 ---
 ![Crema de coliflor](../../images/crema_coliflor.jpg)
