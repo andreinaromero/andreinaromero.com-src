@@ -3,7 +3,7 @@ title: "Brownie Chicludo con Arequipe Sin Azúcar"
 date: 2021-10-25T19:55:11-05:00
 categories: ["sin gluten", "reposteria saludable", "brownies"]
 ---
-![Torta decorada](../../images/browniesconarequipe.jpg)
+![Brownie chicludo](../../images/browniesconarequipe.jpg)
 ___
 ### Brownie
 
