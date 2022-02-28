@@ -8,6 +8,8 @@ Interesantes lecturas en forma de posts, escritos por mi:
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[La receta perfecta](posts/la-receta-perfecta)
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Derivados de la caña de azúcar](posts/derivados_cania_azucar)
+
 Cuéntame qué te parecen estos temas!
 
 
