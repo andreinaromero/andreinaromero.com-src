@@ -1,7 +1,6 @@
 ---
-title: "Brownies de Calabacin"
+title: "Brownies de Calabacín"
 date: 2022-02-27T16:40:06-05:00
-draft: true
 categories: ["sin gluten", "reposteria saludable", "brownies"]
 ---
 ![Brownie calabacin](../../images/brownie_calabacin.jpg)
