@@ -1,7 +1,6 @@
 ---
 title: "Torta de auyama"
 date: 2022-02-27T17:27:34-05:00
-draft: true
 categories: ["reposteria tradicional", "sin huevos", "tortas"]
 ---
 ![Torta de auyama](../../images/torta_auyama.jpg)
@@ -21,7 +20,7 @@ categories: ["reposteria tradicional", "sin huevos", "tortas"]
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loq-iCwa2lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYShz63aMJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento 
 - Precarlentar el horno a 180 C
