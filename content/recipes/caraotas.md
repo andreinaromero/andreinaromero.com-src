@@ -1,7 +1,6 @@
 ---
 title: "Caraotas"
 date: 2022-03-09T09:13:54-05:00
-draft: true
 categories: ["hecho en casa"]
 ---
 ![Caraotas](../../images/caraotas.jpg)
@@ -27,7 +26,9 @@ ___
 
 ___
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/sxqCgdAFYq8)
+Puedes ver el procedimiento completo aquí: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pzkkHMIouU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Preproceso 
 - En un recipiente remojar las caraotas en abundante agua con una cucharadita de bicarbonato, dejarlas reposar durante toda la noche
 
