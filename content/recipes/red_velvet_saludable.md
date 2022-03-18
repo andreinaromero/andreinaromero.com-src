@@ -45,7 +45,7 @@ ___
 | Arándanos frescos | 16 |
 ___
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/ji756LyPdbA)
+Puedes ver el procedimiento completo aquí: <iframe width="560" height="315" src="https://www.youtube.com/embed/ji756LyPdbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de la torta
 - Mezclar la leche con el jugo de limón y dejar reposar por 10 minutos aproximadamente
