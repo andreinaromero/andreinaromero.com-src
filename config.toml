@@ -43,3 +43,6 @@ title = "Aprendamos juntos de repostería"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
