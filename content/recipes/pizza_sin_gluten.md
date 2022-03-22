@@ -1,7 +1,6 @@
 ---
 title: "Pizza sin gluten"
 date: 2022-03-21T17:46:47-05:00
-draft: true
 categories: ["sin gluten", "reposteria saludable", "hecho en casa"]
 ---
 ![Pizza sin gluten](../../images/pizza_sin_gluten.jpg)
