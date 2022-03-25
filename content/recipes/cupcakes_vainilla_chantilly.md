@@ -1,7 +1,6 @@
 ---
 title: "Cupcakes Explosión de Vainilla"
 date: 2022-03-24T07:50:25-05:00
-draft: true
 categories: ["reposteria tradicional", "cupcakes", "pascua"]
 ---
 
@@ -37,7 +36,7 @@ Estos cupcakes combinan el suave sabor de la vainilla tanto en el ponqué como e
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIYrC7OOZQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nqVqD721O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de los cupcakes
 - Precarlentar el horno a 170 C
