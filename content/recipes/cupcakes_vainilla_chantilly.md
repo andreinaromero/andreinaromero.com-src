@@ -1,7 +1,7 @@
 ---
 title: "Cupcakes Explosión de Vainilla"
 date: 2022-03-24T07:50:25-05:00
-categories: ["reposteria tradicional", "cupcakes", "pascua"]
+categories: ["reposteria tradicional", "cupcakes"]
 ---
 
 ![Cupcakes de vainilla con crema chantilly](../../images/cupcakes_vainilla_chantilly.jpg)
