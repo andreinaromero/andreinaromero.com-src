@@ -1,7 +1,6 @@
 ---
 title: "Galletas de chocolate y coco en forma de nido de pájaros"
 date: 2022-03-27T09:01:07-05:00
-draft: true
 categories: ["reposteria tradicional", "galletas", "sin gluten"]
 ---
 ![Galletas nido de chocolate y coco](../../images/galletas_nido_chocolate_y_coco.jpg)
