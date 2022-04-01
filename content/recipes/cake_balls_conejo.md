@@ -1,7 +1,6 @@
 ---
 title: "Cake balls en forma de conejo"
 date: 2022-03-27T10:38:51-05:00
-draft: true
 categories: ["reposteria tradicional", "cake balls"]
 ---
 ![Cake balls de conejo](../../images/cake_balls_conejo.jpg)
@@ -44,7 +43,7 @@ ___
 | Mini marshmallows | 10 |
 
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/l5LTyjtkVYM)
+Puedes ver el procedimiento completo aquí: <iframe width="560" height="315" src="https://www.youtube.com/embed/UnVCnqtvGXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de la compota de fresa
 - En una olla agregar las fresas picadas en trozos pequeños, el azúcar y una cucharada de agua. 
