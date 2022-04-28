@@ -1,7 +1,7 @@
 ---
 title: "Derivados de la caña de azúcar"
 date: 2022-02-28T16:30:56-05:00
-tags: ["reposteria"]
+tags: ["Reposteria"]
 ---
 Eres un fan de las recetas como yo lo soy? a veces me pierdo con tantos tipos de azúcar que piden en las recetas, sobretodo sino están en español. Que si azúcar morena, que si azúcar light morena, que si caster sugar, que si molasses. Y entonces cuál utilizar? las puedo reemplazar así como así una por otra? de donde provienen?
 

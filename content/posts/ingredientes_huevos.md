@@ -1,7 +1,7 @@
 ---
 title: "¿Cuál tipo o tamaño de huevo agregar a una receta?"
 date: 2022-03-28T16:30:44-05:00
-tags: ["reposteria"]
+tags: ["Reposteria"]
 ---
 ¿Realmente importa cuando en una receta dicen que los huevos deben ser de un tamaño específico? A veces he ignorado cuando una receta indica que debo usar huevos large y yo uso de los primeros que consiga en la casa. Pero resulta que muchas veces obtengo resultados que no son los esperados. Asi que si vale la pena prestar atención a esos detalles. Hasta ahora he visto en las recetas estas tres indicaciones:
 

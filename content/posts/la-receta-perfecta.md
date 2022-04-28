@@ -1,7 +1,7 @@
 ---
 title: "La Receta Perfecta"
 date: 2022-01-17T16:54:49-05:00
-tags: ["reposteria"]
+tags: ["Reposteria"]
 ---
 Inicio este post con esta interesantísima pregunta: realmente existe la receta perfecta?? si? y perfecta para quien? para mi?
 
