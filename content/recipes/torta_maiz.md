@@ -1,7 +1,6 @@
 ---
 title: "Torta de Maiz"
 date: 2022-04-30T17:35:50-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta de maiz](../../images/torta_maiz.jpg)
