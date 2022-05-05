@@ -1,7 +1,6 @@
 ---
 title: "Una Historia que Contar - Parte 2"
 date: 2022-05-02T16:54:21-05:00
-draft: true
 tags: ["Testimonios"]
 ---
 ¿Me opero? ¿Y si no me opero? ¿Pudiera llegar a usar un solo ojo? ¿Qué tan malo sería? ¿Y si busco otra opinión?, no sé, ese doctor era como muy joven. La cosa es que él pintó la operación como urgente y cuánto me demoraría en conseguir otro doctor, además, ¿cuál doctor?, y ¿conseguiría la cita pronto?
