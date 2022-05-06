@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ template "partials/my_head.html" . }}
+
+<br></br>
+<div>
+  <form action="/search" method="GET">
+    <input type="search" name="q" id="search-query" placeholder="Search....">
+    <button type="submit">Search</button>
+  </form>
+</div>
+<br></br>
+
+<main>
+
+    <div id="search-results"></div>
+    <div class="search-loading">Loading...</div>
+
+    <script id="search-result-template" type="text/x-js-template">
+
+    <div id="summary-${key}">
+        <a href="${link}">${title}</a>
+    </div>
+
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.0"></script>
+    <script src="/js/search.js"></script>
+</main>
+
+{{ end }}
+
