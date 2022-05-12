@@ -1,7 +1,6 @@
 ---
 title: "Una Historia que Contar - Parte 3"
 date: 2022-05-09T16:29:52-05:00
-draft: true
 tags: ["Testimonios"]
 ---
 Ahí estábamos esperando a que pronunciaran mi nombre para pasar a cirugía. Mi mamá se quedó en casa con Ange. Otra bendición más MI MAMÁ.
