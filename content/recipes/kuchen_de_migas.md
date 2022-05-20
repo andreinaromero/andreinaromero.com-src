@@ -1,7 +1,6 @@
 ---
 title: "Kuchen de Migas"
 date: 2022-05-15T11:07:22-05:00
-draft: true
 categories: ["reposteria tradicional", "tartas"]
 ---
 ![Kuchen de Migas](../../images/kuchen_de_migas.jpg)
@@ -57,7 +56,8 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RzuihD2VQGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq9AZD60eW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Procedimiento para el Relleno de Manzana
 - En un recipiente mezclar las manzanas rojas y verdes, peladas y picadas en cuadros pequeños con el azúcar blanca y azúcar morena, ralladura de naranja y su jugo, canela, sal y pimienta de jamaica. Dejar reposar por 30 minutos, mezclar ocasionalmente.
