@@ -1112,6 +1112,14 @@ a.fn-item.active {
   color:#000;
   text-decoration:none;
 }
+
+input[type=search] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 100px;
+  box-sizing: border-box;
+}
+
 }
 
 /* ==========================================================================
