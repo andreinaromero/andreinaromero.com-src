@@ -1,7 +1,6 @@
 ---
 title: "Merengue Suizo"
 date: 2022-05-22T17:25:25-05:00
-draft: true
 categories: ["recetas base", "Cubiertas y Rellenos", "reposteria tradicional"]
 ---
 ![Merengue Suizo](../../images/merengue_suizo.jpg)
@@ -15,7 +14,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gq9AZD60eW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFRBhLC_iCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Procedimiento 

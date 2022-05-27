@@ -36,7 +36,7 @@ ___
 - Almacenar refrigerada
   
 ### Tips
-- Yo usé un molde cuadrado refractario de vidrio de 20 x 20 cms.
+- Yo usé un molde cuadrado refractario de vidrio de 20 x 20 cms. Engrasar el molde con margarina.
 - El tamaño de los huevos es mediano M
 - El maiz dulce lo puedes comprar desgranado, o, puedes comprar las mazorcas de maiz dulce y desgranarlas.
 - Es preferible usar maiz fresco, pero, si tienes congelado puedes usarlo sin problemas, eso si descongelarlo previamente y si es posible secarlo lo más que se pueda con toallas de cocina.

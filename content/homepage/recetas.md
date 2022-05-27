@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Merengue Suizo](recipes/merengue_suizo)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Kuchen de Migas](recipes/kuchen_de_migas)
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de piña](recipes/torta_pina)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta Especial Dia de las madres! 🌸 ](recipes/torta_choco_brownie_ganache)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Piña](recipes/torta_pina)
 
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Ver más recetas](categories)
