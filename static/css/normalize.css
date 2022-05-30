@@ -355,12 +355,34 @@
   *    (include `-moz` to future-proof).
   */
  
- input[type="search"] {
-     -webkit-appearance: textfield; /* 1 */
-     -moz-box-sizing: content-box;
-     -webkit-box-sizing: content-box; /* 2 */
-     box-sizing: content-box;
- }
+  input[type=search] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+  }
+ 
+  .buttonold {
+    padding:5px;
+    background-color: #dcdcdc;
+    border: 1px solid #666;
+    color:#000;
+    text-decoration:none;
+  }
+
+  .centered {
+    text-align: center;  
+  }
+
+  .button {
+        background-color: #04AA6D;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+  }
  
  /**
   * Remove inner padding and search cancel button in Safari 5 and Chrome

@@ -10,15 +10,17 @@
 <br></br>
 <div>
   <form action="/search/" method="GET">
-    <input type="search" name="q" id="search-query" placeholder="Search....">
-    <button class="button" type="submit">Search</button>
+    <div class="centered">
+      <input type="search" name="q" id="search-query" placeholder="Search....">
+      <button class="button" type="submit">Search</button>
+  </div>
   </form>
 </div>
 <br></br>
 
 <main>
 
-    <div id="search-results"></div>
+    <div id="search-results" class="centered"></div>
     <div class="search-loading">Loading...</div>
 
     <script id="search-result-template" type="text/x-js-template">

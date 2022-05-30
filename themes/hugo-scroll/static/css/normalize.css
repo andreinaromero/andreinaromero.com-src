@@ -355,13 +355,6 @@
   *    (include `-moz` to future-proof).
   */
  
-  input[type=search] {
-    width: 50%;
-    padding: 12px 20px;
-    margin: 8px 100px;
-    box-sizing: border-box;
-  }
- 
  /**
   * Remove inner padding and search cancel button in Safari 5 and Chrome
   * on OS X.
@@ -404,4 +397,11 @@
      border-collapse: collapse;
      border-spacing: 0;
  }
+ .button {
+    padding:5px;
+    background-color: #dcdcdc;
+    border: 1px solid #666;
+    color:#000;
+    text-decoration:none;
+  }
  
