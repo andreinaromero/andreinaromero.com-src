@@ -26,8 +26,6 @@ if (inputBox !== null) {
     if (searchQuery) {
         inputBox.value = searchQuery || "";
         executeSearch(searchQuery, false);
-    } else {
-        document.getElementById('search-results').innerHTML = '<p class="search-results-empty centered">Escribe la receta que quieres buscar, o lista todas las categorias aqui <a href="/categories/">all categories</a>.</p>';
     }
 }
 

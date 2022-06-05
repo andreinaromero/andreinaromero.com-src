@@ -816,6 +816,10 @@ a.fn-item.active {
   background: #22343a;
 }
 
+.bottom {
+  bottom: -300px;
+}
+
 .site-footer a {
   color: #bbc7cc;
   text-decoration: underline;

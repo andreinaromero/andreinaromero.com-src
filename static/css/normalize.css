@@ -361,17 +361,15 @@
     margin: 8px 10px;
     box-sizing: border-box;
   }
- 
-  .buttonold {
-    padding:5px;
-    background-color: #dcdcdc;
-    border: 1px solid #666;
-    color:#000;
-    text-decoration:none;
-  }
 
   .centered {
     text-align: center;  
+  }
+
+  .padding {
+    position: relative;
+    padding-left: 410px;
+    top: 10px;
   }
 
   .button {
