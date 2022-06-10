@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de piña](recipes/torta_pina)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Fondant de chocolate saludable](recipes/fondant_chocolate_saludable)
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta Especial Dia de las madres! 🌸 ](recipes/torta_choco_brownie_ganache)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Merengue Suizo](recipes/merengue_suizo)
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de maiz](recipes/torta_maiz)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Kuchen de Migas](recipes/kuchen_de_migas)
 
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para listar todas las categorías de las recetas](categories)
