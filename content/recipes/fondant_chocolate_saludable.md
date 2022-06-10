@@ -1,7 +1,6 @@
 ---
 title: "Fondant de Chocolate Saludable"
 date: 2022-06-05T07:52:48-05:00
-draft: true
 categories: ["sin azúcar", "reposteria saludable"]
 ---
 ![Fondant de chocolate](../../images/fondant_saludable.jpg)
@@ -27,7 +26,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gq9AZD60eW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4zF1YhnzczE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Procedimiento para el Fondant
