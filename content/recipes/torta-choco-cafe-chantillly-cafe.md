@@ -70,4 +70,4 @@ Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/
 - Al momento de incorporar los secos y los líquidos es mejor usar una espátula de silicona y hacer movimientos envolventes para no restar aire a la mezcla
 - Sobrebatir la mezcla después de agregar la harina puede dejarnos la torta menos esponjosa 
 - El chocolate con leche para derretir puede ser cobertura o chocolate real
-- Tiempo aproximado de hornado 45 minutos
+- Tiempo aproximado de horneado 45 minutos
