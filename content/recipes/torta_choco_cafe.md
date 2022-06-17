@@ -1,7 +1,6 @@
 ---
 title: "Torta de Chocolate y Café"
 date: 2022-06-14T07:24:01-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "tortas"]
 ---
 ![Torta choco café](../../images/torta_chocolate.jpg)
@@ -25,7 +24,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Pq7NLYaVnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wugj7QIAcBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Procedimiento previo
