@@ -7,7 +7,7 @@ categories: ["mesa dulce", "reposteria tradicional"]
 ___
 ### Merengue Pops
 
-Para hacer estos merengue pops puedes usar la receta de merengue suizo que te dejaré en el siguiente link: {{<icon class="fa fa-hand-o-right">}}&nbsp;[Merengue Suizo](recipes/merengue_suizo)
+Para hacer estos merengue pops puedes usar la receta de merengue suizo que te dejaré en el siguiente link: {{<icon class="fa fa-hand-o-right">}}&nbsp;[Merengue Suizo](../merengue_suizo)
 
 ___
 
