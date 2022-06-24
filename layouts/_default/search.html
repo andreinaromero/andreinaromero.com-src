@@ -2,6 +2,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
+<link rel="stylesheet" href="{{ "css/search.css" | absURL }}" />
 {{ end }}
 
 {{ define "main" }}
@@ -20,12 +21,12 @@
 
 <main>
 
-    <div id="search-results" class="padding"></div>
+    <div id="search-results"></div>
     <div class="search-loading">Loading...</div>
 
     <script id="search-result-template" type="text/x-js-template">
 
-    <div id="summary-${key}">
+    <div class="search-item">
         <a href="${link}">${title}</a>
     </div>
 
