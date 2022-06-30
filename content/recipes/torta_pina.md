@@ -10,7 +10,7 @@ ___
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
 | Huevos | 2 |
-| Mantequilla | 120 grs |
+| Mantequilla sin sal| 120 grs |
 | Vainilla | 1 cucharadita|
 | Polvo para hornear | 2 cucharaditas |
 | Harina tradicional| 200 grs |
