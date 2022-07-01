@@ -1,7 +1,6 @@
 ---
 title: "Crema Chantilly de Café"
 date: 2022-06-29T19:08:42-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos"]
 ---
 ![Ganache de chocolate con leche](../../images/chantilly_cafe.jpg)
@@ -21,7 +20,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4rmWLDc_s0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M1gPx4WWGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Procedimiento 
