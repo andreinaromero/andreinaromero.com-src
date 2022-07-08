@@ -22,7 +22,7 @@ ___
 
 ### Procedimiento 
 - Precalentar el horno a 170 C y preparar un molde rectangular para pan engrasado con un poco de aceite de coco
-- En un bowl agregar los ingredientes secos y mezclarlos: almidón de yuca, harina de avena, psyllium, polvo de hornear y el queso rallado 
+- En un bowl agregar los ingredientes secos y mezclarlos: almidón de yuca, harina de avena, psyllium, polvo de hornear, sal y el queso rallado 
 - En otro bowl aparte agregar los huevos y el aceite de coco derretido y mezclar muy bien, yo usé globo batidor. El tiempo aproximado de batido es de 5 minutos.
 - Luego agregar los ingredientes húmedos a los secos e integrar usando una espátula de silicona
 - Amasar con las manos hasta que se forme una masa estilo plastilina
