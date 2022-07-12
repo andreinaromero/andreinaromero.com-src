@@ -1,7 +1,6 @@
 ---
 title: "Muffins de Zanahoria y Calabacín"
 date: 2022-07-11T20:13:26-05:00
-draft: true
 categories: ["hecho en casa", "muffins", "reposteria saludable", "sin gluten"]
 ---
 ![Muffins de zanahoria y calabacín](../../images/muffins_zanahoria_calabacin.jpg)

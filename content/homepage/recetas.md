@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Muffins de Zanahoria y Calabacín](recipes/muffins_zanahoria_calabacin)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Crema chantilly sabor a café](recipes/chantilly_cafe)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Ganache de Chocolate con Leche](recipes/ganache_chocolate_leche)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Chocolate y Café](recipes/torta_choco_cafe)
 
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para listar todas las categorías de las recetas](categories)
