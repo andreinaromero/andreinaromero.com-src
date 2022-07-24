@@ -4,7 +4,10 @@ date: 2022-07-04T16:51:33-05:00
 draft: true
 tags: ["Vida Diaria"]
 ---
-AY! es que tengo que arreglar el cuarto útil. Desde el año pasado tengo esa tarea y nada que la hago. Bueno quizá no es una prioridad no? analicemos lo importante, lo que es necesario hacer y lo urgente.
+*Es que tengo que arreglar el cuarto útil*. Desde el año pasado tengo esa tarea pendiente y nada que la hago. Bueno quizá no es una prioridad no? analicemos 
++ lo importante, 
++ lo que es necesario hacer y 
++ lo urgente.
 
 Si pediste vacaciones y tienes algunos días libres del trabajo, los cuales puedes invertir en hacer libremente lo que quieras: ¿qué es lo primero que harías???? buena pregunta ¿verdad? ¿Lanzarte en tu cama y dormir una siesta? 
 
