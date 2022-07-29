@@ -1,7 +1,6 @@
 ---
 title: "Torta de Zanahoria y nueces con un Frosting de Queso Crema"
 date: 2022-07-24T13:22:34-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta zanahoria con frosting de queso crema](../../images/torta_zanahoria.jpg)
@@ -42,7 +41,9 @@ ___
 | Miel | 1 cucharadita |
 
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/n4RQmWyIW0s)
+Puedes ver el procedimiento completo aquí: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGa0wmNmC0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 180 C.
