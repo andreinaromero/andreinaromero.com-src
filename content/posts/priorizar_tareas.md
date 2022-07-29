@@ -20,9 +20,8 @@ A mi me pasa por ejemplo en un fin de semana que incluye día festivo, o lo que 
 Luego listo, pienso que ya, que eso es lo que tengo que hacer el fin de semana. Pero resulta que, no incluí lo que “TENGO QUE HACER” es decir, lo que no es negociable, lo que “sino hago se compromete la integridad del hogar” si, así como suena: ejemplo de estas tareas de esta categoría es “lavar la ropa”, “atender a Angelina (mi hija)”, “hacer el desayuno + almuerzo + cena”, “hacer mi horneado del fin de semana, OF COURSEEE!”. Y bueno quizá cada tarea se pueda dividir en subtareas porque si lavo la ropa también tengo que tender la que necesite tendido y meterla en la secadora y luego sacarla, doblarla y guardarla no? en fin. Cuando me doy cuenta, me enfoco en esas tareas que tengo que hacer y al final si me queda tiempo es que miro la lista que hice en esa fichita de por allá. Entonces, siempre le vamos a dar prioridad a aquellas tareas necesarias y urgentes. Así que lo que recomiendo es, categorizar cada tarea, se me ocurre una tabla como la que muestro a continuación, pondré tareas de ejemplo, ya tú puedes hacer tu propia tabla similar con tus propias tareas:
 
 | URGENTE E IMPORTANTE | NO URGENTE E IMPORTANTE | NO IMPORTANTE Y URGENTE | NO IMPORTANTE NO URGENTE |
-| ----------- | ----------- || ----------- | ----------- |
-| Cocinar: desayuno, almuerzo, cena | Lavar la ropa los días sábado | Tinturarme el cabello | Llamar a mantenimiento del calentador de gas, ya que le vi una gotica que se está escapando como cada 12 horas sale esa gotita |
-
+| ----------- | ----------- | ----------- | ----------- |
+| Cocinar: desayuno, almuerzo, cena | Lavar la ropa los días sábado | Tinturarme el cabello | Llamar a mantenimiento del calentador de gas, ya que le vi una gotica que se está escapando como cada 12 horas sale esa gotita |xxx|
 
 El ejemplo que más me costó imaginar fue el de la categoría **No importante Y Urgente**. 
 
