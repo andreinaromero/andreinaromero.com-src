@@ -3,7 +3,7 @@ title: "Crema Chantilly de Café"
 date: 2022-06-29T19:08:42-05:00
 categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos"]
 ---
-![Ganache de chocolate con leche](../../images/chantilly_cafe.jpg)
+![Crema Chantilly de Café](../../images/chantilly_cafe.jpg)
 ___
 ### Ganache
 
