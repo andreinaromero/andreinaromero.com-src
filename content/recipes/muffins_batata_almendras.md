@@ -1,7 +1,6 @@
 ---
 title: "Muffins de Batata con Almendras"
 date: 2022-08-25T08:00:40-05:00
-draft: true
 categories: ["hecho en casa", "muffins", "reposteria saludable", "sin gluten"]
 ---
 ![Muffins de batata y almendras](../../images/muffins_batata_almendra.jpg)
@@ -25,7 +24,7 @@ ___
 | Almendras picadas | 1/3 taza|
 ___
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gFRBhLC_iCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4i2z3OOjq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento 
 - Precalentar el horno a 190 C y preparar una bandeja para muffins con capacillos.
