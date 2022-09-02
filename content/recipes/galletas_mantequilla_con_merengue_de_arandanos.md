@@ -1,7 +1,7 @@
 ---
 title: "Galletas de mantequilla con merengue de arándanos"
 date: 2021-11-15T20:27:20-05:00
-categories: ["reposteria tradicional", "galletas"]
+categories: ["reposteria tradicional", "galletas", "galletas de mantequilla"]
 ---
 ![Galletas mantequilla](../../images/galletas_mantequilla_arandanos.jpg)
 ___
