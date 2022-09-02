@@ -1,7 +1,6 @@
 ---
 title: "Galletas de Mantequilla"
 date: 2022-09-02T09:18:40-05:00
-draft: true
 categories: ["reposteria tradicional", "galletas", "recetas base", "galletas de mantequilla"]
 ---
 ![Galletas mantequilla](../../images/galletas_mantequilla.jpg)
@@ -18,7 +17,8 @@ ___
 | Sal | 5 gramos |
 ___
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/l5LTyjtkVYM)
+Puedes ver el procedimiento completo aquí: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zx826Ujk9SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de las galletas
 - En un bowl agregar la harina de trigo y el azúcar pulverizada. Pasar ambos por un colador para tamizarlos. Revolverlos muy bien, podemos usar una cuchara de madera
