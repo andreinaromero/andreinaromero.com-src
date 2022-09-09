@@ -1,7 +1,6 @@
 ---
 title: "Glaseado Real"
 date: 2022-09-08T09:47:00-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos", "Galletas de mantequilla"]
 ---
 ![Glaseado real](../../images/glaseado.jpg)
@@ -23,7 +22,7 @@ ___
 
 Puedes ver el procedimiento completo aquí
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VGT62SQEMrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vfqg0mlP1N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Procedimiento 
@@ -36,4 +35,4 @@ Puedes ver el procedimiento completo aquí
 ### Tips
 - La consistencia gruesa sirve para crear bordes o detalles a las galletas
 - La consistencia media sirve para rellenar la superficia de las galletas
-- Puedes ir agregando limón al glaseado para lograr la consistencia deseada, yo lo hago usando un cuarto de cucharadita para no pasarme.
+- Puedes ir agregando el limón al glaseado para lograr la consistencia deseada, yo lo hago usando un cuarto de cucharadita para no pasarme.
