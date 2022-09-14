@@ -39,7 +39,7 @@ Puedes ver el procedimiento completo aquí
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4nqVqD721O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de los cupcakes
-- Precarlentar el horno a 170 C
+- Precalentar el horno a 170 C
 - Batir la mantequilla con el azúcar hasta cremar, por aproximadamente 5 minutos. Yo utilicé batidora eléctrica manual
 - Agregar los huevos uno a uno y batir hasta incorporar, aproximadamente 5 minutos
 - Por aparte mezclar la harina y el polvo de hornear, tamizar
