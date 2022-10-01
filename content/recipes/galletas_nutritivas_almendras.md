@@ -1,7 +1,6 @@
 ---
 title: "Galletas Nutritivas de Almendras"
 date: 2022-09-23T20:40:58-05:00
-draft: true
 categories: ["sin gluten", "reposteria saludable", "galletas"]
 ---
 ![Galletas nutritivas de almendras y ajonjolí](../../images/galletas_nutritivas_almendras.jpg)
@@ -27,7 +26,7 @@ ___
 | Chocolate picado | 1/4 taza |
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wjds7ReunDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2IrSdCxjYgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de las galletas
 - Precalentar el horno a 180 C
