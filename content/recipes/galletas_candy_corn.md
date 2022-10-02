@@ -16,7 +16,7 @@ ___
 | Azúcar morena | 90 grs |
 | Azúcar granulada | 100 grs |
 | Mantequilla sin sal | 112 gramos |
-| Vainilla | 1 cucharaditas | 
+| Vainilla | 1 cucharadita | 
 | Harina de trigo | 235 gramos |
 | Sal | 1/2 cucharadita |
 | Bicarbonato de sodio | 1/2 cucharadita |
@@ -44,7 +44,8 @@ Puedes ver el procedimiento completo aquí
 - Salieron 9 galletas
 
 ### Tips 
-- La mantequilla debe estar a temperatura ambiente
+- La mantequilla debe estar a temperatura ambiente.
+- El tamaño de los huevos es M.
 - El tamaño de las bolitas para formar las galletas es al gusto, yo las hice de 65 a 67 gramos pesando cada porción de masa, esto con el fin de que queden parejas.
 - El tiempo aproximado de horneado es de 13 minutos. Deben quedar ligeramente doradas abajo. Recuerda que a los 11 minutos las puedes sacar para añadirle algunos caramelos de decoración y hornear de nuevo por dos minutos más.
 - Colocar las bolitas en la bandeja separadas para que no se peguen, yo hornié 6 galletas en cada tanda.
