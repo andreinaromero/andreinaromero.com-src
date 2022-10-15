@@ -1,7 +1,6 @@
 ---
 title: "Galletas de Candy Corn"
 date: 2022-10-01T19:54:24-05:00
-draft: true
 categories: ["reposteria tradicional", "galletas"]
 ---
 ![Galletas con candy corns](../../images/galletas_candy_corn.jpg)
@@ -29,7 +28,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4nqVqD721O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T5LK5bYxHDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de las galletas
 - En un bowl añadir la mantequilla, con el azúcar moreno y el azúcar blanca, batir a velocidad media alta hasta que se integren, aproximadamente por 5 minutos. Yo utilicé una batidora eléctrica manual.
