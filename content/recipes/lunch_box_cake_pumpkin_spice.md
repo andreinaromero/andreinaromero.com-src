@@ -1,7 +1,6 @@
 ---
 title: "Lunch Box Cakes de Pumpkin Spice"
 date: 2022-10-01T20:26:34-05:00
-draft: true
 categories: ["reposteria tradicional", "lunch box cakes"]
 ---
 ![Lunch box cake de pumpkin spice](../../images/lunch_box_cake_pumpkin_spice.jpg)
@@ -51,7 +50,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4nqVqD721O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HVSNapf_MVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de las lunch box cakes
 - Precalentar el horno a 175 C.

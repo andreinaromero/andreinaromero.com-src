@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Lunch box cakes de pumpkin spice](recipes/lunch_box_cake_pumpkin_spice)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas de dulce de maiz](recipes/galletas_candy_corn)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas nutritivas de almendras](recipes/galletas_nutritivas_almendras)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de banano con frosting de queso crema](recipes/torta_banano_frosting_queso_crema)
 
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para listar todas las categorías de las recetas](categories)
