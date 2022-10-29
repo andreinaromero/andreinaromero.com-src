@@ -1,7 +1,6 @@
 ---
 title: "Torta Momia Ojos Locos"
 date: 2022-10-09T20:20:54-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta momia con ojos locos](../../images/torta_momia_ojos_locos.jpg)
@@ -38,7 +37,7 @@ Puedes ver la receta de royal icing aquí: [Royal Icing](../glaseado_real)
 
 Puedes ver el procedimiento completo aquí: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGa0wmNmC0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRXOPlQqpq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 165 C.
