@@ -1,7 +1,6 @@
 ---
 title: "Torta Blanca con Crema Mantequilla"
 date: 2022-10-02T19:52:38-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas", "birthday cakes"]
 ---
 ![Torta blanca con crema mantequilla](../../images/torta_blanca_con_crema_mantequilla.jpg)
@@ -38,7 +37,7 @@ Puedes ver la receta de crema mantequilla aquí: [Crema mantequilla](../crema_ma
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Pq7NLYaVnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrXMg-eyi9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 175 C
