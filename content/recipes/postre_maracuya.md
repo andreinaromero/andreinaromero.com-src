@@ -1,7 +1,6 @@
 ---
 title: "Postre de Maracuyá"
 date: 2022-10-31T18:53:06-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Postre de maracuyá](../../images/postre_maracuya.jpg)
@@ -55,7 +54,7 @@ ___
 
 Puedes ver el procedimiento completo aquí: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGa0wmNmC0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J2BqzmI1aFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 180 C.
