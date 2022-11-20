@@ -48,7 +48,7 @@ Puedes ver el procedimiento completo aquí
 - Tamizar los secos directamente en el bowl de la batidora, yo utilicé una batidora eléctrica de pedestal.
 - Batir con la ayuda de la paleta: los secos, la mantequilla y el azúcar a velocidad baja por 1 minuto.
 - Aparte mezclar con la ayuda de un tenedor, la leche el huevo y la vainilla.
-- Agregar la mitad de los líquidos a los secos y batir a velocidad media alta por 1 minuto, raspar bordes y agregar la otra mitad. Batir por 30 segundos, raspar bordes y batir por 30 segundos más.
+- Agregar la mitad de los líquidos a los secos y batir a velocidad media alta por 1 minuto. Raspar bordes antes de agregar la otra mitad. Agregar el resto de los líquidos y batir a velocidad media alta por 1 minuto más.
 - Terminar de integrar todo con espátula, recuerda que queremos que la mezcla nos quede bien integrada.
 - Hornearlos de 18 a 23 minutos, hasta que se vean dorados por arriba. 
 
