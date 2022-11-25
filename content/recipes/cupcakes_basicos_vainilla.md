@@ -1,7 +1,6 @@
 ---
 title: "Cupcakes Básicos de Vainilla"
 date: 2022-11-18T20:38:42-05:00
-draft: true
 categories: ["reposteria tradicional", "cupcakes"]
 ---
 ![Cupcakes básicos de vainilla](../../images/cupcakes_basicos_vainilla.jpg)
@@ -40,7 +39,7 @@ Estos cupcakes son básicos de vainilla, quedan esponjosos, deliciosos y los pue
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qh8F59KVYpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tYl3od_Gwbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de los cupcakes
 - Precarlentar el horno a 170 C
