@@ -10,14 +10,14 @@ ___
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
 | Huevos | 1 |
-| Azúcar | 90 grs |
-| Mantequilla sin sal | 55 gramos |
+| Azúcar | 110 grs |
+| Mantequilla sin sal | 108 gramos |
 | Vainilla | 1/2 cucharadita | 
-| Harina de trigo | 114 gramos |
-| Avena | 110 gramos |
+| Harina de trigo | 132 gramos |
+| Avena | 125 gramos |
 | Sal | 1/4 cucharadita |
-| Pasitas | 55 gramos |
-| Zanahoria rallada | 175 gramos |
+| Pasitas | 80 gramos |
+| Zanahoria rallada | 150 gramos |
 | Polvo para hornear | 1/2 cucharadita |
 | Bicarbonato de sodio | 1/2 cucharadita |
 | Canela | 1/2 cucharadita |
