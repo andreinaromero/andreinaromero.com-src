@@ -1,7 +1,7 @@
 ---
-title: "Pan de yuca saludable"
+title: "Pan de Yuca Saludable"
 date: 2022-02-06T14:36:42-05:00
-categories: ["hecho en casa", "desayunos", "panes saludables", "sin gluten"]
+categories: ["hecho en casa", "panes saludables", "sin gluten"]
 ---
 ![Pan de yuca saludable](../../images/pan_yuca_saludable.jpg)
 ___
