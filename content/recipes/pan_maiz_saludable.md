@@ -1,7 +1,6 @@
 ---
 title: "Pan de Maiz Saludable"
 date: 2022-11-28T20:00:30-05:00
-draft: true
 categories: ["hecho en casa", "panes saludables", "sin gluten"]
 ---
 ![Pan de Maiz Saludable](../../images/pan_maiz_saludable.jpg)
@@ -22,7 +21,7 @@ ___
 
 ___
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIYrC7OOZQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ArMf6cgQ-44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento 
 - Precalentar el horno a 160 C y preparar dos moldes rectangulares para pan engrasados con un poco de aceite de coco
