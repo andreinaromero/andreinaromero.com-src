@@ -1,7 +1,6 @@
 ---
 title: "Torta Negra"
 date: 2022-12-13T19:02:01-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas", "navidad"]
 ---
 ![Torta Negra de Navidad](../../images/torta_negra.jpg)
@@ -45,7 +44,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RzuihD2VQGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkUvLn5VeQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento torta
 - Precalentar el horno a 170 C
