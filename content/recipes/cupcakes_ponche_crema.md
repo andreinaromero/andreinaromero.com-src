@@ -1,7 +1,6 @@
 ---
 title: "Cupcakes de Ponche de Crema"
 date: 2022-12-25T20:20:59-05:00
-draft: true
 categories: ["reposteria tradicional", "cupcakes"]
 ---
 ![Cupcakes de Ponche de Crema](../../images/cupcakes_ponche_crema.jpg)
@@ -39,7 +38,7 @@ categories: ["reposteria tradicional", "cupcakes"]
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tYl3od_Gwbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ry7saXRz3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de los cupcakes
 - Precarlentar el horno a 170 C
