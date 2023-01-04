@@ -20,7 +20,7 @@ categories: ["reposteria tradicional", "cupcakes"]
 | Polvo de hornear | 1 y 1/2 cucharaditas |
 | Vainilla | 1/2 cucharadita |
 
-### Crema mantequilla americana
+### Crema mantequilla sabor a ponche
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
@@ -50,7 +50,7 @@ Puedes ver el procedimiento completo aquí
 - Terminar de integrar todo con espátula, recuerda que queremos que la mezcla nos quede bien integrada.
 - Hornearlos de 18 a 23 minutos, hasta que se vean dorados por arriba. 
 
-### Procedimiento de la crema mantequilla americana
+### Procedimiento de la crema mantequilla
 - En un bowl tamizar el azúcar pulverizada.
 - En el bowl de la batidora de pedestal con la paleta, colocar la mantequilla y batir a velocidad alta por 2 minutos.
 - Raspar bordes batir por 30 segundos más.
