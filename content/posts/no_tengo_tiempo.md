@@ -1,7 +1,6 @@
 ---
 title: "No Tengo Tiempo"
 date: 2022-12-02T13:54:57-05:00
-draft: true
 tags: ["Vida Diaria"]
 ---
 Frase **No tengo Tiempo**  cambiémosla por 👉
