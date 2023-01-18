@@ -6,12 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas de Huevo](recipes/galletas_de_huevo)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Cupcakes de Ponche de Crema](recipes/cupcakes_ponche_crema)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta Negra](recipes/torta_negra)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Cupcakes Choco Reno](recipes/cupcakes_choco_reno)
-
 
 
 __________________________________________

@@ -1,12 +1,11 @@
 ---
 title: "Galletas de Huevo"
 date: 2023-01-13T19:45:12-05:00
-draft: true
 categories: ["reposteria tradicional", "galletas"]
 ---
 ![Galletas de huevo](../../images/galletas_huevo.jpg)
 ___
-### Galletas (Medidas en Gramos)
+### Galletas
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
