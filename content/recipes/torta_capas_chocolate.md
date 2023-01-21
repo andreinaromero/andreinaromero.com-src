@@ -1,7 +1,6 @@
 ---
 title: "Torta de Capas de Chocolate con Crema de Colores"
 date: 2023-01-03T20:36:46-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta en capas de chocolate](../../images/torta_chocolate_colorida.jpg)
@@ -33,7 +32,7 @@ ___
 
 Puedes ver el procedimiento completo aquí: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J2BqzmI1aFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRovfKDL784" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento torta
 - Precalentar el horno a 175 C.
