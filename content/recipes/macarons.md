@@ -1,7 +1,6 @@
 ---
 title: "Macarons"
 date: 2023-01-30T20:49:39-05:00
-draft: true
 categories: ["reposteria tradicional", "macarons"]
 ---
 ![Violet macarons](../../images/violet_macarons.jpg)
@@ -30,7 +29,8 @@ ___
 | Colorante violeta | 1 gota |
 ___
 
-Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/RZx7rSPH8Zc)
+Puedes ver el procedimiento completo aquí:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIHEPrp6rWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento de los macarons
 - Procesar la harina de almendra con el azúcar pulverizada apoyándonos en un robot de cocina. 

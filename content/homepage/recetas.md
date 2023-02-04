@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Macarons - Segundo Intento](recipes/macarons)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta En Capas de Chocolate](recipes/torta_capas_chocolate)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas de Huevo](recipes/galletas_de_huevo)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Cupcakes de Ponche de Crema](recipes/cupcakes_ponche_crema)
 
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para listar todas las categorías de las recetas](categories)
