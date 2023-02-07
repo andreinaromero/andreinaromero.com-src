@@ -1,7 +1,6 @@
 ---
 title: "Shots de Cheesecake de Fresa"
 date: 2023-02-05T20:59:00-05:00
-draft: true
 categories: ["cheesecakes", "postres frios", "shots", "fácil"]
 ---
 ![Shots de cheesecake de fresa](../../images/shots_cheesecake_fresa.jpg)
