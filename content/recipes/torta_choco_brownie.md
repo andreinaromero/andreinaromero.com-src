@@ -1,7 +1,6 @@
 ---
 title: "Torta de Chocolate estilo Brownie"
 date: 2023-02-14T19:52:47-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "tortas"]
 ---
 ![Torta choco brownie](../../images/torta_choco_brownie.jpg)
@@ -25,7 +24,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Pq7NLYaVnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smDgF5l5nJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 180 C
