@@ -1,7 +1,6 @@
 ---
 title: "Crema de Oreo y Leche Condensada"
 date: 2023-03-01T20:10:26-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos"]
 ---
 ![Crema de Oreo](../../images/crema_oreo.jpg)
@@ -19,7 +18,7 @@ ___
 
 Puedes ver el procedimiento completo aquí
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VGT62SQEMrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qNeABzycxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Procedimiento 
