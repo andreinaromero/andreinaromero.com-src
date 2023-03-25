@@ -1,12 +1,11 @@
 ---
-title: "Leche de Almendra"
+title: "Leche de Almendras"
 date: 2023-03-22T19:51:11-05:00
-draft: true
 categories: ["receta base", "reposteria saludable", "vegano"]
 ---
 ![Leche de Almendra](../../images/leche_almendra.jpg)
 ___
-### Leche de Almendra
+### Leche de Almendras
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
@@ -16,7 +15,7 @@ ___
 
 Puedes ver el procedimiento completo aquí
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vfqg0mlP1N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D1F0ZI6HVTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Procedimiento 
