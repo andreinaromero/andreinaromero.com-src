@@ -1,8 +1,7 @@
 ---
 title: "Muffins de Manzana y Chia"
 date: 2023-03-27T20:45:45-05:00
-draft: true
-categories: ["hecho en casa", "muffins", "reposteria saludable", "sin gluten"]
+categories: ["hecho en casa", "muffins", "reposteria saludable", "sin gluten", "vegano"]
 ---
 ![Muffins de manzana y chia](../../images/muffins_manzana_y_chia.jpg)
 ___
