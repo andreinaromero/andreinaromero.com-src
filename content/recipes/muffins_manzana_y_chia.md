@@ -41,4 +41,4 @@ ___
 - Puedes usar leche vegetal, yo utilicé leche de vaca descremada.
 - Si tienes extracto de vainilla sin azúcar mucho mejor.
 - Sino deseas utilizar capacillos, puedes engrasar la bandeja para muffins con aceite de coco.
-- Salen 11 muffins.
+- Salen 7 muffins.
