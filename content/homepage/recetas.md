@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Muffins de Manzana y Chia](recipes/muffins_manzana_y_chia)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Leche de Almendras](recipes/leche_almendra)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Crema de Oreo y Leche Condensada](recipes/crema_oreo_y_leche_condensada)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Chocolate Estilo Brownie](recipes/torta_choco_brownie)
 
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para listar todas las categorías de las recetas](categories)
