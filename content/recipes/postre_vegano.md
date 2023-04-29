@@ -29,7 +29,7 @@ ___
 | ----------- | ----------- |
 | Leche de Almendras | 400 gramos |
 | Sirope de Agave | 35 gramos |
-| Vainilla sin azúcar añadida | 2 cucharaditas |
+| Vainilla sin azúcar añadida | 3 cucharaditas |
 
 ___
 
@@ -50,11 +50,12 @@ Puedes ver el procedimiento completo aquí
 
 ### Procedimiento Arequipe
 - En una olla colocar la leche de almendras.
-- Ponerla a fuego medio bajo.
+- Ponerla a fuego medio alto.
 - Al rato añadir el sirope de agave y la vainilla.
 - Revolver constantemente con la ayuda de una espátula de silicona.
-- Cuando hierva bajar el fuego a fuego lento.
-- Cocinar de 20 a 25 minutos hasta que nos quede una consistencia espesa.
+- Cuando hierva contar 10 minutos.
+- Bajar el fuego a fuego lento.
+- Dejar hervir por 5 minutos más.
 - Dejar reposar hasta que tome temperatura ambiente, luego de eso puedes conservarlo en un recipiente en la nevera.
 
 ### Armado del postre
