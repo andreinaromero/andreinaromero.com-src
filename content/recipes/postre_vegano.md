@@ -39,6 +39,7 @@ Puedes ver el procedimiento completo aquí
 
 
 ### Procedimiento 
+- Pelar y picar las manzanas en cuadritos. Colocarlas en una olla con tapa y cocinar a fuego lento por 10 minutos. Cuando estén blandas licuarlas para formar un puré.
 - En un recipiente mezclar la leche de almendra con el vinagre y dejar reposar por 10 minutos. 
 - En el bowl de la batidora de pedestal colocar el endulzante, la vainilla, el café, el cacao, la leche y el chocolate derretido. Batir a velocidad media alta hasta integrar, esto es aproximadamente por 1 minuto. 
 - Agregar el puré de manzana y batir por 1 minuto más. 
