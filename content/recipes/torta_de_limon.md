@@ -1,7 +1,6 @@
 ---
 title: "Torta de Limón"
 date: 2023-06-08T19:51:53-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "tortas", "con limón"]
 ---
 ![Torta choco brownie](../../images/torta_limon.jpg)
@@ -24,7 +23,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smDgF5l5nJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2G_BzUr1vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 170 C
