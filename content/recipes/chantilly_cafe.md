@@ -27,7 +27,7 @@ Puedes ver el procedimiento completo aquí
 - En un recipiente colocar dos cucharadas de la crema de leche indicada en la receta y el café instantáneo y disolverlo, para ello puedes calentarlo en el microondas o al baño de María. Luego lo colocas en la nevera para que esté bien frio.
 - En otro recipiente revolver la gelatina en polvo sin sabor con el agua, y dejarla reposar por 10 minutos.
 - Luego de que la gelatina esté hidratada meterla al microonda para que se derrita.
-- Batir a velocidad media baja la crema de leche y el queso crema bien frios hasta que estèn espumosos, esto es por aproximadamente 2 minutos.
+- Batir a velocidad media baja la crema de leche y el queso crema bien frios hasta que estén espumosos, esto es por aproximadamente 2 minutos.
 - Tamizar el azúcar pulverizada y agregarla a la crema de leche.
 - Batir a velocidad media alta por 1 minuto.
 - Agregar la vainilla, el café derretido y la gelatina líquida a la mezcla.
