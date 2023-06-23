@@ -1,7 +1,6 @@
 ---
 title: "Crema Chantilly"
 date: 2023-06-22T20:10:10-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos"]
 ---
 ![Crema chantilly](../../images/crema_chantilly.jpg)
@@ -21,7 +20,7 @@ ___
 
 Puedes ver el procedimiento completo aquí
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nOJ_wdVe9Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJU-dKJeA6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Procedimiento 

@@ -5,7 +5,7 @@ categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos"]
 ---
 ![Crema Chantilly de Café](../../images/chantilly_cafe.jpg)
 ___
-### Ganache
+### Crema Chantilly de Café
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
