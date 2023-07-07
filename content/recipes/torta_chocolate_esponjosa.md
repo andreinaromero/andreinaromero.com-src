@@ -1,7 +1,6 @@
 ---
 title: "Torta de Chocolate Esponjosa"
 date: 2023-07-06T18:35:37-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "tortas"]
 ---
 ![Torta de chocolate esponjosa](../../images/torta_chocolate_esponjosa.jpg)
@@ -22,7 +21,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smDgF5l5nJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D0R1q6vrgUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 165 C
