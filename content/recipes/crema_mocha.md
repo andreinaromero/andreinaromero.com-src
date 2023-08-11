@@ -1,7 +1,6 @@
 ---
 title: "Crema Mantequilla de sabor a chocolate y café"
 date: 2023-08-07T19:41:10-05:00
-draft: true
 categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos"]
 ---
 ![Crema Moccachino](../../images/crema_mocha.jpg)
@@ -23,7 +22,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8M1gPx4WWGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T8u3c2DMdGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Procedimiento 
