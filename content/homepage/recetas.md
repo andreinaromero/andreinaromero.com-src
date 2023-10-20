@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Chocolate Blanco 🎉](recipes/torta_chocolate_blanco)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Crema Sabor a Chocolate y Café](recipes/crema_mocha)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Chocolate Esponjosa](recipes/torta_chocolate_esponjosa)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Crema Chantilly](recipes/crema_chantilly)
 
 
 __________________________________________

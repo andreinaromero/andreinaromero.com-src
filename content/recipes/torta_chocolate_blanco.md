@@ -1,7 +1,6 @@
 ---
 title: "Torta de Chocolate Blanco"
 date: 2023-10-17T19:03:28-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas", "birthday cakes"]
 ---
 ![Torta de chocolate blanco](../../images/torta_chocolate_blanco.jpg)
@@ -37,7 +36,7 @@ ___
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MrXMg-eyi9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0t0cB9nhGXA?si=nHZILnS9yYIJJSQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 175 C
