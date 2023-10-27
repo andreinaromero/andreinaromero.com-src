@@ -1,7 +1,6 @@
 ---
 title: "Torta de Chocolate y Fantasmas"
 date: 2023-10-27T11:07:29-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta de chocolate con fantasmitas](../../images/torta_chocolate_fantasmas.jpg)
@@ -41,7 +40,7 @@ ___
 
 Puedes ver el procedimiento completo aquí: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRovfKDL784" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Pk2nhkHxdY?si=5YyK4TPwlNHwqrC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento torta
 - Precalentar el horno a 175 C.
