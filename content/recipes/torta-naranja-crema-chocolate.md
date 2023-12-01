@@ -55,7 +55,7 @@ Puedes ver el procedimiento completo aquí: [Video de Youtube](https://youtu.be/
 - Recordemos que si rallamos la parte blanca de la naranja pudiera aportar un toque amargo a la mezcla, por eso te recomiendo solo rallar de forma superficial
 - Al momento de incorporar los secos y los líquidos es mejor usar una espátula de silicona y hacer movimientos envolventes para no restar aire a la mezcla
 - Sobrebatir la mezcla después de agregar la harina puede dejarnos la torta menos esponjosa 
-- Tiempo aproximado de hornado 45 minutos
+- Tiempo aproximado de horneado 45 minutos
 
 
 
