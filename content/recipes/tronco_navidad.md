@@ -1,7 +1,6 @@
 ---
 title: "Tronco de Navidad"
 date: 2023-12-22T08:41:55-05:00
-draft: true
 categories: ["reposteria tradicional", "rollos", "navidad"]
 ---
 ![Rollo de Chocolate Estilo Tronco](../../images/rollo_navidad.jpg)
@@ -36,7 +35,7 @@ ___
 
 Puedes ver el procedimiento completo aquí: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J2BqzmI1aFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eTeLsKznKro?si=gJf0Z2wxrPVOrTGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Procedimiento bizcocho
 - Precalentar el horno a 180 C.
