@@ -43,6 +43,11 @@ Más información aquí: <iframe width="560" height="315" src="https://www.youtu
   + Resultados
 + Hasta Luego
 
+## MÁS INFORMACIÓN
+
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Si quieres obtener más información click aquí 🍰](https://andreinar.hotmart.host/pagina-de-ventas-0db41a32-88f9-480c-a7ea-a3c1cdbac810)
+
 ## ADQUIÉRELO YA!
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Adquiérelo YA desde el siguiente link 🍰](https://andreinar.hotmart.host/pagina-de-ventas-0db41a32-88f9-480c-a7ea-a3c1cdbac810)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Adquiérelo YA desde el siguiente link 🍰](https://pay.hotmart.com/F83396049C)
+
