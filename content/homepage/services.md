@@ -1,16 +1,9 @@
 ---
-title: "Servicios"
+title: "Tutoriales Online"
 weight: 2
 header_menu: true
 ---
-
-En este sección muy pronto encontrarás tutoriales y/o ebooks disponibles
-
----
-
-## Tutoriales
-
-En esta sección muy pronto encontrarás videos tutoriales con información valiosa disponible
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Tortas Esenciales Vainilla y Chocolate 🍰](posts/to_vainilla_chocolate)
 
 ---
 
