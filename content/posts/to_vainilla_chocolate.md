@@ -5,6 +5,8 @@ tags: ["Tutoriales Online"]
 ---
 **¡APROVECHA LA PROMOCIÓN DEL DIA DE LA MUJER!**
 
+Usa el código DIADELAMUJER
+
 Mi nuevo Tutorial Online: **Tortas Esenciales Vainilla y Chocolate**
 
 No necesitas conocimientos previos.
@@ -47,7 +49,7 @@ Más información aquí: <iframe width="560" height="315" src="https://www.youtu
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Si quieres obtener más información click aquí 🍰](https://andreinar.hotmart.host/pagina-de-ventas-0db41a32-88f9-480c-a7ea-a3c1cdbac810)
 
-## ADQUIÉRELO YA EN OFERTA!
+## ADQUIÉRELO YA!
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Adquiérelo YA desde el siguiente link 🍰](https://pay.hotmart.com/F83396049C?off=2ro11c85)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Adquiérelo YA desde el siguiente link 🍰](https://pay.hotmart.com/F83396049C?off=xi0yf2i3)
 
