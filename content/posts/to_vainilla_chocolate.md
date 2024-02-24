@@ -3,7 +3,7 @@ title: "Tortas Esenciales Vainilla y Chocolate"
 date: 2024-01-11T20:07:26-05:00
 tags: ["Tutoriales Online"]
 ---
-**¡DISPONIBLE YA!**
+**¡APROVECHA LA PROMOCIÓN DEL DIA DE LA MUJER!**
 
 Mi nuevo Tutorial Online: **Tortas Esenciales Vainilla y Chocolate**
 
@@ -47,7 +47,7 @@ Más información aquí: <iframe width="560" height="315" src="https://www.youtu
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Si quieres obtener más información click aquí 🍰](https://andreinar.hotmart.host/pagina-de-ventas-0db41a32-88f9-480c-a7ea-a3c1cdbac810)
 
-## ADQUIÉRELO YA!
+## ADQUIÉRELO YA EN OFERTA!
 
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Adquiérelo YA desde el siguiente link 🍰](https://pay.hotmart.com/F83396049C)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Adquiérelo YA desde el siguiente link 🍰](https://pay.hotmart.com/F83396049C?off=2ro11c85)
 
