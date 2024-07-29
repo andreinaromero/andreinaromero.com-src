@@ -3,14 +3,6 @@ title: "Tortas Esenciales Vainilla y Chocolate"
 date: 2024-01-11T20:07:26-05:00
 tags: ["Tutoriales Online"]
 ---
-**¡APROVECHA LA PROMOCIÓN DEL DIA DE LA MUJER!**
-
-Usa el código DIADELAMUJER
-
-Mi nuevo Tutorial Online: **Tortas Esenciales Vainilla y Chocolate**
-
-No necesitas conocimientos previos.
-
 Este tutorial online contiene **más de 15 videos en alta definición** con la explicación detallada de dos clásicos sabores de la repostería:
  + **Torta de Vainilla** rellena y cubierta de Crema Mantequilla con base de Merengue Suizo y,
  + **Torta de Chocolate** con Crema sabor a Nutella.
