@@ -42,7 +42,7 @@ ___
 
 ### Procedimiento de las galletas
 - En el bowl de la batidora con el paddle attachment añadir la mantequilla, con el azúcar moreno y el azúcar blanca, batir a velocidad media alta hasta que se integren, aproximadamente por 5 minutos
-- Agregar los huevos y la vainilla, batir hasta integrar, aproximadamente por 5 minutos
+- Batir ligeramente los huevos con la vainilla usando un tenedor y agregarlos a la mezcla. Batir hasta integrar, aproximadamente por 2 minutos. 
 - Agregar los ingredientes secos: la harina, polvo para hornear, bicarbonato, canela, sal, batir hasta incorporar, no sobrebatir
 - Agregar los chips de chocolate e integrar usando una espátula de silicona
 - Dividir la mezcla a la mitad y cada mitad envolverla en papel transparente y refrigerar por una hora o durante toda la noche
