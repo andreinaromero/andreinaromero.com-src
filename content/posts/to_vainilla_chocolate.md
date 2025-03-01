@@ -1,5 +1,5 @@
 ---
-title: "Tortas Esenciales Vainilla y Chocolate"
+title: "Tortas Esenciales Vainilla y Chocolate - Ahora con Red Velvet"
 date: 2024-01-11T20:07:26-05:00
 tags: ["Tutoriales Online"]
 ---
@@ -7,9 +7,14 @@ Este tutorial online contiene **más de 15 videos en alta definición** con la e
  + **Torta de Vainilla** rellena y cubierta de Crema Mantequilla con base de Merengue Suizo y,
  + **Torta de Chocolate** con Crema sabor a Nutella.
 
-Contiene **dos PDF descargables** con información detallada acerca de los utensilios, procedimientos, tips de horneado y consejos de conservación, los cuales podrás acceder desde cualquier dispositivo e inclusive imprimir para tener a la mano a la hora de preparar las recetas.
+Ahora contiene una actualización muy importante:
 
-Anímate a conocer estas dos preparaciones que han sido cuidadosamente seleccionadas y verificadas por mi para traértelas ya listas, equilibradas, bien explicadas y con un sabor y textura deliciosos. 
+ + **Torta de Red Velvet** con Frosting de Queso Crema
+
+
+Contiene **PDF descargables** con información detallada acerca de los utensilios, procedimientos, tips de horneado y consejos de conservación, los cuales podrás acceder desde cualquier dispositivo e inclusive imprimir para tener a la mano a la hora de preparar las recetas.
+
+Anímate a conocer estas clásicas preparaciones que han sido cuidadosamente seleccionadas y verificadas por mi para traértelas ya listas, equilibradas, bien explicadas y con un sabor y textura deliciosos. 
 
 Podrás acceder a este tutorial desde la comodidad de tu hogar, y sobretodo aprenderás a tu propio ritmo ya que podrás ver los videos una y otra vez, retroceder las veces que quieras y pausar. 
 
@@ -33,6 +38,15 @@ Más información aquí: <iframe width="560" height="315" src="https://www.youtu
   + Post Horneado
   + Crema de Chocolate - Pasos Previos
   + Crema de Chocolate - Manos a la Obra
+  + Decoración - Manos a la obra
+  + Resultados
+
++ Torta de Red Velvet
+  + Pasos Previos
+  + Manos a la Obra
+  + Post Horneado
+  + Frosting de Queso Crema - Pasos Previos
+  + Frosting de Queso Crema - Manos a la Obra
   + Decoración - Manos a la obra
   + Resultados
 + Hasta Luego
