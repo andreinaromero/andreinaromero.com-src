@@ -1,7 +1,6 @@
 ---
 title: "Torta Violeta"
 date: 2025-04-07T19:25:25-05:00
-draft: true
 categories: ["reposteria tradicional", "tortas"]
 ---
 ![Torta Violetea](../../images/tortavioleta.jpg)
@@ -25,7 +24,7 @@ categories: ["reposteria tradicional", "tortas"]
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loq-iCwa2lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6izt9HJN94?si=MN1pwK-q3WbJ5CQt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Procedimiento del bizcocho
 - Precarlentar el horno a 170 C
