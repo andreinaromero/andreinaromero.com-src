@@ -25,7 +25,7 @@ Puedes ver el procedimiento completo aquí
 <iframe width="560" height="315" src="https://www.youtube.com/embed/loq-iCwa2lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Procedimiento de la masa base
-- Precarlentar el horno a 170 C
+- Precalentar el horno a 170 C
 - Separar las claras de las yemas
 - En el bowl de la batidora agregar las claras y batir a velocidad media alta hasta que espumen un poco, aproximadamente por 1 minuto
 - Agregar la sal, continuar batiendo un poco más, aproximadamente por 1 minuto
