@@ -2,7 +2,6 @@
 title: "Torta de Vainilla de una capa"
 date: 2025-05-01T15:41:06-05:00
 categories: ["reposteria tradicional", "tortas"]
-draft: true
 ---
 ![Torta de vainilla](../../images/torta_vainilla_grande.jpg)
 
@@ -24,7 +23,7 @@ draft: true
 ___
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loq-iCwa2lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qWMeDtr6ClM?si=2SGGWWqwWf69ZXvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Procedimiento de la masa base
 - No olvides precalentar tu horno a 170 C
