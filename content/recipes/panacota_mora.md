@@ -1,7 +1,6 @@
 ---
 title: "Panacota de Mora"
 date: 2025-05-09T16:03:59-05:00
-draft: true
 categories: ["reposteria tradicional", "postres frios"]
 ---
 ![Panacota de mora](../../images/panacota_mora.jpg)
@@ -27,7 +26,7 @@ ___
 
 ___
 
-Puedes ver el procedimiento completo aquí: <iframe width="560" height="315" src="https://www.youtube.com/embed/kyHybp9QZ0g?si=uNjN145EooRnSZ9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Puedes ver el procedimiento completo aquí: <iframe width="560" height="315" src="https://www.youtube.com/embed/3WWnoEPu8uk?si=8w_3SzgkHmfAV24h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Procedimiento para la panacota
 
