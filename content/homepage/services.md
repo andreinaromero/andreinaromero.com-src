@@ -9,4 +9,4 @@ header_menu: true
 
 ## E-books
 
-En esta sección muy pronto encontrarás e-books con información valiosa disponible
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Nuevo Ebook - Galletas Con Estilo 🍰](landing-galletas/index.html)

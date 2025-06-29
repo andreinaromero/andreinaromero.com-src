@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Galletas con Estilo – Landing Page</title>
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --cream:#F5E2C1;
+      --pink:#F6C5B0;
+      --coral:#FCA89F;
+      --mauve:#B68A8F;
+      --slate:#4F5E5E;
+      --sage:#AFB47C;
+    }
+    body{font-family:Poppins, sans-serif;background:var(--cream);color:#442107;}
+    h1,h2,h3{font-family:'Playfair Display', serif;}
+    .btn-primary{background:var(--slate);color:#fff;padding:.75rem 2rem;border-radius:.75rem;font-weight:600;transition:background .3s ease;}
+    .btn-primary:hover{background:var(--sage);}    
+  </style>
+</head>
+<body>
+  <section class="py-20 px-4 text-center" style="background:var(--pink);">
+    <div class="max-w-3xl mx-auto">
+      <img src="LogoFondoTransparente.png" alt="Andreina Lemon Cake logo" class="h-24 mx-auto mb-6">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4" style="color:var(--mauve);">Galletas con Estilo</h1>
+      <p class="text-xl md:text-2xl mb-8">10 Recetas que Marcan Tendencia – ¡Hornea, disfruta y comparte!</p>
+      <a href="#comprar" class="btn-primary inline-block">Comprar ahora por 14&nbsp;USD</a>
+    </div>
+  </section>
+
+  <section class="py-12 px-4 text-center">
+    <div class="max-w-xl mx-auto">
+      <img src="Portada%20Productos%20Hotmart.jpg" alt="Portada del ebook" class="rounded-xl shadow-lg w-full max-w-md mx-auto">
+    </div>
+  </section>
+
+  <section class="py-16 px-4">
+    <div class="max-w-5xl mx-auto">
+      <h2 class="text-3xl font-bold mb-8 text-center" style="color:var(--mauve);">📖 ¿Qué encontrarás dentro?</h2>
+      <ul class="space-y-3 text-lg">
+        <li>Tips Generales para Preparar Galletas Deliciosas</li>
+        <li>Galleta Chips de Chocolate</li>
+        <li>Galletas de Mantequilla Decoradas</li>
+        <li>Galleta de Avena, Pasas y Ajonjolí</li>
+        <li>Galletas Chips Red Velvet</li>
+        <li>Galletas Surtidas Pasta Seca</li>
+        <li>Galletas Cuadriculadas</li>
+        <li>Galletas de Zanahoria</li>
+        <li>Galletas Doble Chocolate</li>
+        <li>Galletas estilo Biscotti</li>
+        <li>Galletas estilo Sablé de Tres Sabores</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="py-16 px-4" style="background:var(--pink);">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-3xl font-bold mb-8 text-center" style="color:var(--mauve);">🎁 Bonos EXCLUSIVOS (incluidos sin coste extra)</h2>
+      <ul class="space-y-5 text-lg">
+        <li><strong>Mini‑ebook “Galletas Estilo NY”</strong><br>3 cookies gigantes, suaves por dentro y crujientes por fuera, al mejor estilo neoyorquino.</li>
+        <li><strong>Mini‑ebook “Galletas Saludables”</strong><br>3 recetas sin azúcar refinada y con harinas integrales para disfrutar sin culpa.</li>
+        <li><strong>Video paso a paso “Chips de Chocolate”</strong><br>Observa la técnica completa para lograr la miga perfecta y chispas fundentes.</li>
+        <li><strong>Video paso a paso “Mantequilla Decoradas”</strong><br>Desde la masa hasta el glaseado real y trucos de decoración fáciles.</li>
+        <li><strong>Video paso a paso “Avena, Pasas y Ajonjolí”</strong><br>Todos los tips para una textura crujiente y un sabor equilibrado.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="py-16 px-4">
+    <div class="max-w-3xl mx-auto">
+      <h2 class="text-3xl font-bold mb-6 text-center" style="color:var(--mauve);">💸 Valor total del paquete</h2>
+      <div class="overflow-x-auto">
+        <table class="min-w-full border-2 border-[var(--coral)] rounded-xl bg-white/80 text-lg">
+          <thead style="background:var(--coral);">
+            <tr>
+              <th class="px-4 py-3 text-left text-white">Concepto</th>
+              <th class="px-4 py-3 text-right text-white">Valor</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="border-b">
+              <td class="px-4 py-3">Ebook principal</td>
+              <td class="px-4 py-3 text-right font-semibold">50 USD</td>
+            </tr>
+            <tr class="border-b">
+              <td class="px-4 py-3">2 Mini‑ebooks (15 USD c/u)</td>
+              <td class="px-4 py-3 text-right font-semibold">30 USD</td>
+            </tr>
+            <tr class="border-b">
+              <td class="px-4 py-3">3 Videos paso a paso (10 USD c/u)</td>
+              <td class="px-4 py-3 text-right font-semibold">30 USD</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3 font-bold">Valor total</td>
+              <td class="px-4 py-3 text-right font-bold">110 USD</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section id="comprar" class="py-20 px-4 text-center" style="background:var(--slate);color:#fff;">
+    <div class="max-w-xl mx-auto">
+      <h2 class="text-3xl font-bold mb-4">🎉 ¡Precio lanzamiento especial!</h2>
+      <p class="mb-4 text-lg">Solo <strong>14 USD</strong> (¡ahorra 96 USD y llévate todo el pack completo!)</p>
+      <a href="#" class="btn-primary">Comprar ahora</a>
+    </div>
+  </section>
+
+  <section class="py-16 px-4">
+    <div class="max-w-xl mx-auto text-center">
+      <h3 class="text-2xl font-bold mb-4" style="color:var(--mauve);">😊 Garantía de satisfacción</h3>
+      <p class="text-lg">Prueba las recetas durante 7 días. Si no te enamoras de tus nuevas galletas, ¡te devolvemos tu dinero sin preguntas!</p>
+    </div>
+  </section>
+
+  <section class="py-16 px-4 bg-white">
+    <div class="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8">
+      <img src="IMG_4858.jpg" alt="Andreina Romero" class="rounded-full w-40 h-40 object-cover shadow-md" />
+      <div>
+        <h3 class="text-2xl font-bold mb-2" style="color:var(--mauve);">Sobre mí</h3>
+        <p class="text-lg">Hola, soy Andreina Romero, la apasionada home baker detrás de Andreina Lemon Cake. Me encanta enseñar desde la experiencia real, con recetas probadas y explicaciones simples para que cualquiera pueda hornear desde casa. ¡Acompáñame en este viaje delicioso y creativo!</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="py-8 text-center text-sm" style="background:var(--pink);">
+    <img src="LogoFondoTransparente.png" alt="Logo" class="h-12 mx-auto mb-3">
+    <p class="mb-1">© 2025 Andreina Lemon Cake. Todos los derechos reservados.</p>
+    <p>Hecho con ❤ y muchas galletas.</p>
+  </footer>
+</body>
+</html>
