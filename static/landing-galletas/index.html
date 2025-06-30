@@ -4,10 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Galletas con Estilo – Landing Page</title>
-  <!-- Tailwind CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     :root {
       --cream:#F5E2C1;
@@ -19,8 +18,35 @@
     }
     body{font-family:Poppins, sans-serif;background:var(--cream);color:#442107;}
     h1,h2,h3{font-family:'Playfair Display', serif;}
-    .btn-primary{background:var(--slate);color:#fff;padding:.75rem 2rem;border-radius:.75rem;font-weight:600;transition:background .3s ease;}
-    .btn-primary:hover{background:var(--sage);}    
+    .btn-primary{
+      background:linear-gradient(90deg, var(--slate), var(--mauve));
+      color:#fff;
+      padding:1rem 2.5rem;
+      border-radius:1rem;
+      font-weight:700;
+      font-size:1.125rem;
+      box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+      transition:all .3s ease;
+    }
+    .btn-primary:hover{
+      transform: scale(1.05);
+      background:linear-gradient(90deg, var(--sage), var(--coral));
+    }
+    .social-icons a {
+      color: var(--slate);
+      transition: color 0.3s ease;
+      font-size: 1.75rem;
+    }
+    .social-icons a:hover {
+      color: var(--mauve);
+    }
+    .list-check li::before {
+      content: "\2713";
+      color: var(--sage);
+      font-weight: bold;
+      display: inline-block;
+      width: 1.5em;
+    }
   </style>
 </head>
 <body>
@@ -29,7 +55,7 @@
       <img src="LogoFondoTransparente.png" alt="Andreina Lemon Cake logo" class="h-24 mx-auto mb-6">
       <h1 class="text-4xl md:text-5xl font-bold mb-4" style="color:var(--mauve);">Galletas con Estilo</h1>
       <p class="text-xl md:text-2xl mb-8">10 Recetas que Marcan Tendencia – ¡Hornea, disfruta y comparte!</p>
-      <a href="#comprar" class="btn-primary inline-block">Comprar ahora por 14&nbsp;USD</a>
+      <a href="https://pay.hotmart.com/W100365683P?off=b2jp8fof" class="btn-primary inline-block">Comprar ahora por 14&nbsp;USD</a>
     </div>
   </section>
 
@@ -39,10 +65,10 @@
     </div>
   </section>
 
-  <section class="py-16 px-4">
-    <div class="max-w-5xl mx-auto">
-      <h2 class="text-3xl font-bold mb-8 text-center" style="color:var(--mauve);">📖 ¿Qué encontrarás dentro?</h2>
-      <ul class="space-y-3 text-lg">
+  <section class="py-16 px-6">
+    <div class="max-w-2xl mx-auto text-center">
+      <h2 class="text-3xl font-bold mb-6" style="color:var(--mauve);">¿Qué encontrarás dentro?</h2>
+      <ul class="text-left list-check text-lg space-y-3">
         <li>Tips Generales para Preparar Galletas Deliciosas</li>
         <li>Galleta Chips de Chocolate</li>
         <li>Galletas de Mantequilla Decoradas</li>
@@ -109,7 +135,7 @@
     <div class="max-w-xl mx-auto">
       <h2 class="text-3xl font-bold mb-4">🎉 ¡Precio lanzamiento especial!</h2>
       <p class="mb-4 text-lg">Solo <strong>14 USD</strong> (¡ahorra 96 USD y llévate todo el pack completo!)</p>
-      <a href="#" class="btn-primary">Comprar ahora</a>
+      <a href="https://pay.hotmart.com/W100365683P?off=b2jp8fof&bid=1751251043726" class="btn-primary inline-block">Comprar ahora</a>
     </div>
   </section>
 
@@ -132,8 +158,15 @@
 
   <footer class="py-8 text-center text-sm" style="background:var(--pink);">
     <img src="LogoFondoTransparente.png" alt="Logo" class="h-12 mx-auto mb-3">
+    <div class="flex justify-center space-x-5 mb-4 text-xl social-icons">
+      <a href="https://www.instagram.com/andreina_lemon_cake/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.youtube.com/@AndreinaLemonCake" target="_blank" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+      <a href="https://www.facebook.com/profile.php?id=100091519466494" target="_blank" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.tiktok.com/@andreinalemoncake" target="_blank" aria-label="TikTok"><i class="fab fa-tiktok"></i></a>
+      <a href="https://api.whatsapp.com/send/?phone=573054697119&text&type=phone_number&app_absent=0" target="_blank" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+    </div>
     <p class="mb-1">© 2025 Andreina Lemon Cake. Todos los derechos reservados.</p>
-    <p>Hecho con ❤ y muchas galletas.</p>
+    <p>Hecho con ❤</p>
   </footer>
 </body>
 </html>
