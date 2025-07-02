@@ -35,7 +35,7 @@
     .social-icons a {
       color: var(--slate);
       transition: color 0.3s ease;
-      font-size: 1.75rem;
+      font-size: 2rem;
     }
     .social-icons a:hover {
       color: var(--mauve);
@@ -47,6 +47,50 @@
       display: inline-block;
       width: 1.5em;
     }
+    .carousel-wrapper {
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+    }
+    .carousel-track {
+      display: flex;
+      transition: transform 0.5s ease-in-out;
+    }
+    .carousel-slide {
+      min-width: 100%;
+      transition: opacity 0.5s ease-in-out;
+      text-align: center;
+      padding: 1rem;
+    }
+    .carousel-slide img {
+      border-radius: 0.75rem;
+      width: 100%;
+      max-width: 400px;
+      height: auto;
+      object-fit: cover;
+      margin: 0 auto;
+    }
+    .carousel-caption {
+      margin-top: 0.75rem;
+      font-weight: 600;
+      color: var(--slate);
+      font-size: 1.125rem;
+    }
+    .carousel-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.5);
+      color: white;
+      border: none;
+      font-size: 2rem;
+      cursor: pointer;
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      z-index: 10;
+    }
+    .carousel-btn.left { left: 10px; }
+    .carousel-btn.right { right: 10px; }
   </style>
 </head>
 <body>
@@ -83,6 +127,71 @@
       </ul>
     </div>
   </section>
+
+    <section class="py-12 px-6 bg-white">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-3xl font-bold mb-6 text-center" style="color:var(--mauve);">Mira algunas de las galletas que podrás preparar</h2>
+      <div class="carousel-wrapper" id="carousel">
+        <div class="carousel-track" id="carousel-track">
+          <div class="carousel-slide">
+            <img src="Galletas Chips Chocolate.jpg" alt="Galletas Chips de Chocolate">
+            <p class="carousel-caption">Galletas clásicas con chips de chocolate</p>
+          </div>
+          <div class="carousel-slide">
+            <img src="Galletas de Mantequilla Decoradas.jpg" alt="Galletas de Mantequilla Decoradas">
+            <p class="carousel-caption">Delicadas galletas de mantequilla decoradas</p>
+          </div>
+          <div class="carousel-slide">
+            <img src="Galletas de Avena.jpg" alt="Galletas de Avena">
+            <p class="carousel-caption">Galletas de avena con pasas y ajonjolí</p>
+          </div>
+           <div class="carousel-slide">
+            <img src="GalletasRedVelvet.jpg" alt="Galletas Red Velvet">
+            <p class="carousel-caption">Galletas de red velvet</p>
+          </div>
+           <div class="carousel-slide">
+            <img src="Galletas Surtidas Pasta Seca.jpg" alt="Galletas Surtidas Estilo Pasta Seca">
+            <p class="carousel-caption">Galletas Surtidas estilo Pasta Seca</p>
+          </div>
+          <div class="carousel-slide">
+            <img src="Galletas Cuadriculadas.jpg" alt="Galletas Cuadriculadas">
+            <p class="carousel-caption">Galletas Cuadriculadas</p>
+          </div>
+          <div class="carousel-slide">
+            <img src="GalletasDeZanahoria.jpg" alt="Galletas de Zanahoria">
+            <p class="carousel-caption">Galletas de Zanahoria</p>
+          </div>
+          <div class="carousel-slide">
+            <img src="Galletas Doble Chocolate.jpg" alt="Galletas Doble Chocolate">
+            <p class="carousel-caption">Galletas Doble Chocolate</p>
+          </div>
+          <div class="carousel-slide">
+            <img src="Galletas Biscotti.jpg" alt="Galletas Biscotti">
+            <p class="carousel-caption">Biscotti crujientes con almendras</p>
+          </div>
+        </div>
+        <button class="carousel-btn left" onclick="moveSlide(-1)">&#10094;</button>
+        <button class="carousel-btn right" onclick="moveSlide(1)">&#10095;</button>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    let index = 0;
+    const track = document.getElementById('carousel-track');
+    const slides = document.querySelectorAll('.carousel-slide');
+
+    function moveSlide(step) {
+      index = (index + step + slides.length) % slides.length;
+      track.style.transform = `translateX(-${index * 100}%)`;
+    }
+
+    let autoScroll = setInterval(() => moveSlide(1), 4000);
+
+    const carousel = document.getElementById('carousel');
+    carousel.addEventListener('mouseenter', () => clearInterval(autoScroll));
+    carousel.addEventListener('mouseleave', () => autoScroll = setInterval(() => moveSlide(1), 4000));
+  </script>
 
   <section class="py-16 px-4" style="background:var(--pink);">
     <div class="max-w-4xl mx-auto">
