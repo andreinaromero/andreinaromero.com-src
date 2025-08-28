@@ -1,0 +1,85 @@
+<style>
+/* Estilos para el contenedor del formulario */
+.formulario-descarga {
+  background-color: #F1EAD0; /* Color crema de la paleta */
+  border: 1px solid #EEBBAD; /* Borde melocotón claro */
+  border-radius: 12px; /* Bordes más suaves */
+  padding: 2.5rem;
+  max-width: 550px;
+  margin: 3rem auto; /* Centra el formulario y da más espacio */
+  text-align: center;
+  font-family: 'Georgia', serif; /* Una fuente más elegante para un look bonito */
+  color: #4F6B6B; /* Color de texto principal (verde azulado oscuro) */
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1); /* Sombra suave para que destaque */
+}
+
+.formulario-descarga h3 {
+  color: #E18A7C; /* Color coral para el título */
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.formulario-descarga p {
+  color: #986F7C; /* Color malva para la descripción */
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+/* Estilos para la etiqueta del campo de email */
+.formulario-descarga label {
+  display: block; /* Para que la etiqueta esté en su propia línea */
+  text-align: left;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #4F6B6B; /* Verde azulado oscuro */
+}
+
+/* Estilos para el campo de email */
+.formulario-descarga input[type="email"] {
+  width: calc(100% - 24px); /* Ajuste para el padding */
+  padding: 12px;
+  margin-bottom: 1.5rem;
+  border: 1px solid #986F7C; /* Borde malva para el input */
+  border-radius: 8px; /* Bordes suaves */
+  box-sizing: border-box; 
+  font-size: 1rem;
+  color: #4F6B6B; /* Color de texto dentro del input */
+  background-color: #fdfdfd; /* Un blanco suave para el fondo del input */
+}
+
+.formulario-descarga input[type="email"]::placeholder {
+  color: #b0c4de; /* Un gris azulado suave para el placeholder */
+}
+
+/* Estilos para el botón de envío */
+.formulario-descarga button {
+  background-color: #E18A7C; /* Color coral de la paleta para el botón */
+  color: white;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 1.2rem;
+  font-weight: bold;
+  letter-spacing: 0.5px; /* Pequeño espaciado entre letras */
+  transition: background-color 0.3s ease; /* Transición suave al pasar el ratón */
+}
+
+.formulario-descarga button:hover {
+  background-color: #986F7C; /* Color malva al pasar el ratón para un efecto suave */
+}
+</style>
+<div class="formulario-descarga">
+  <h3>¡Descarga la Receta de las Galletas Doble Chocolate en formato PDF!</h3>
+  <p>Ingresa tu correo electrónico para recibir el PDF al instante.</p>
+  
+  <form action="https://formspree.io/f/meolokbj" method="POST">
+    <label for="email">Tu correo electrónico:</label>
+    <input type="email" id="email" name="email" placeholder="ana.perez@receta.com" required>
+    
+    <input type="hidden" name="_subject" value="Nueva Suscripción Recetario PDF">
+    
+    <button type="submit">¡Lo quiero!</button>
+  </form>
+</div>
