@@ -41,7 +41,8 @@ ___
 ___
 
 ### Procedimiento de las galletas
-- Precalentar el horno a 160 C
+- Precalentar el horno a 180 C
+- Rallar la zanahoria por el lado más fino
 - En un bowl agregar la mantequilla con el azúcar y mezclar, podemos usar una cuchara de madera
 - Agregar el huevo y la vainilla, mezclar
 - En otro bowl mezclamos los ingredientes secos: harina, sal, polvo para hornear, bicarbonato, canela
@@ -49,7 +50,7 @@ ___
 - Agregar la avena y las pasas mezclar con movimientos envolventes, podemos usar una espátula de silicona
 - Agregar la zanahoria rallada con movimientos envolventes
 - En una bandeja para horno con papel parafinado o un tapete de silicona ir formando las galletas porcionadas, salen aproximadamente 14 galletas
-- Hornear hasta que se doren ligeramente por debajo, aproximadamente de 20 a 25 minutos.
+- Hornear hasta que se doren ligeramente por debajo, aproximadamente por 14 minutos.
 
 
 ### Tips para las galletas
