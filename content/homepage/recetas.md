@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Mini Alfajores Rellenos de Arequipe ](recipes/mini_alfajores)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Leche de Coco](recipes/leche_coco)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Panacota de Mora 🍮](recipes/panacota_mora)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Vainilla Una Capa 🍰](recipes/torta_vainilla_grande)
 
 __________________________________________
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para listar todas las categorías de las recetas](categories)
