@@ -1,5 +1,5 @@
 ---
-title: "Torta_chocolate_crema_cafe"
+title: "Torta de Chocolate con Crema sabor a Café"
 date: 2025-11-12T05:30:45-05:00
 categories: ["reposteria tradicional", "tortas"]
 ---
