@@ -53,7 +53,7 @@ ___
 ___
 
 Puedes ver el video para armar el postre aquí: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wugj7QIAcBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXfCFCx8xYk?si=RTEyb6bYsCTFO8uG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Procedimiento previo
