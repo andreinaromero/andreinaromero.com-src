@@ -1,0 +1,24 @@
+/* Banner styles */
+.banner {
+  background-color: #D2B48C; /* Light brown - Tan */
+  color: #FFFFFF; /* Light letters - White */
+  padding: 15px 0;
+  overflow: hidden;
+  white-space: nowrap;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.banner-text {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 30s linear infinite;
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+/* Marquee animation */
+@keyframes marquee {
+  0%   { transform: translate(0, 0); }
+  100% { transform: translate(-100%, 0); }
+}
