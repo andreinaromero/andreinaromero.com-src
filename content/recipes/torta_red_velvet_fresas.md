@@ -38,7 +38,7 @@ La lista de ingredientes y el procedimiento están disponibles en mi Tutorial On
 | (Opcional) Yogurt en polvo | 1 cucharadita |
 
 Puedes ver el procedimiento completo aquí
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smDgF5l5nJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qLUxVmu707w?si=l4YwWDm4LmrWtrMN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Procedimiento Fresas en Almíbar
 
