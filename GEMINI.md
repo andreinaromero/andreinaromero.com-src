@@ -69,3 +69,44 @@ En `layouts/_default/baseof.html`, inserta el bloque del banner justo después d
     </div>
     <!-- PROMOTION BANNER END -->
 ```
+
+## Procesamiento de Imágenes 📸
+
+Cuando se añada una nueva receta con una imagen en formato `.HEIC`, el proceso es el siguiente:
+
+1. **Conversión y Redimensión:** Las imágenes deben convertirse a `.jpg` y redimensionarse a un **ancho de 700px** (manteniendo la proporción original).
+2. **Nomenclatura:** La imagen debe tener el **mismo nombre** que el archivo markdown de la receta (ej: `galletas_coco.md` -> `galletas_coco.jpg`).
+3. **Herramientas:** En entorno macOS (Darwin), se utiliza `sips`:
+   ```bash
+   sips -s format jpeg -Z 700 imagen_original.HEIC --out static/images/nombre_receta.jpg
+   ```
+4. **Limpieza:** Una vez generada la versión `.jpg` en `static/images/`, el archivo original `.HEIC` **debe ser eliminado**.
+5. **Vinculación Automática:** El editor debe incluir automáticamente el enlace a la imagen al principio del contenido de la receta: `![Título de la Receta](../../images/nombre_receta.jpg)`.
+
+## Proceso para Añadir una Nueva Receta 🍪
+
+Para agregar una nueva receta al blog y actualizar la sección de destacados en la página de inicio, sigue estos pasos:
+
+### 1. Generar el archivo y procesar la imagen
+- Crear el archivo markdown con `hugo new recipes/nombre_de_la_receta.md`.
+- Si hay imagen, procesarla siguiendo el protocolo de **Procesamiento de Imágenes**.
+
+### 2. Completar la información de la receta
+- **Imagen:** Incluir el link `![Título](../../images/nombre.jpg)` justo debajo del frontmatter.
+- **Separador:** Añadir una línea separadora `___` después de la imagen.
+- **Contenido:** Tabla de ingredientes (en gramos) y procedimiento numerado.
+
+### 3. Rotación en la Página de Inicio
+Las recetas destacadas se gestionan en `content/homepage/recetas.md`. El flujo de rotación es el siguiente:
+1. Identifica las 3 recetas actuales.
+2. **Elimina la tercera receta** de la lista.
+3. Inserta la **nueva receta** en la **primera posición**.
+4. Las que eran primera y segunda bajan un puesto cada una.
+
+Ejemplo de estructura en `recetas.md`:
+```markdown
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[NUEVA RECETA 🍪](recipes/nueva_receta)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[RECETA ANTERIOR #1 🍰](recipes/receta_1)
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[RECETA ANTERIOR #2 ☕](recipes/receta_2)
+```
+
