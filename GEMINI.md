@@ -94,7 +94,38 @@ Para agregar una nueva receta al blog y actualizar la sección de destacados en 
 ### 2. Completar la información de la receta
 - **Imagen:** Incluir el link `![Título](../../images/nombre.jpg)` justo debajo del frontmatter.
 - **Separador:** Añadir una línea separadora `___` después de la imagen.
-- **Contenido:** Tabla de ingredientes (en gramos) y procedimiento numerado.
+- **Contenido:** Tabla de ingredientes (en gramos).
+- **Video de YouTube (Opcional):** Si la receta tiene un video, añadir una línea separadora `___` después de la tabla de ingredientes, seguida del texto `Puedes ver el procedimiento completo aquí:` y el código de inserción (`iframe`) de YouTube. Cerrar con otra línea separadora `___`.
+- **Procedimiento:** Lista numerada de pasos.
+
+## Inserción de Videos de YouTube 📺
+
+Cuando se incluya un video de YouTube en una receta o post, se debe seguir este formato:
+
+1. **Ubicación:** Generalmente después de la tabla de ingredientes y antes del procedimiento detallado.
+2. **Separadores:** Enmarcar el bloque del video entre dos líneas separadoras `___`.
+3. **Texto Introductorio:** Incluir la frase `Puedes ver el procedimiento completo aquí:` justo antes del `iframe`.
+4. **Código Embed:** Utilizar el código estándar de YouTube (ancho 560, alto 315).
+5. **Placeholder (Si no hay link):** Si el video aún no está listo, utilizar el siguiente bloque como marcador de posición:
+   ```markdown
+   ___
+
+   Puedes ver el procedimiento completo aquí: 
+   <!-- YOUTUBE_VIDEO_PLACEHOLDER -->
+   *(Video en proceso de edición)*
+
+   ___
+   ```
+
+Ejemplo:
+```markdown
+___
+
+Puedes ver el procedimiento completo aquí: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" ...></iframe>
+
+___
+```
 
 ### 3. Rotación en la Página de Inicio
 Las recetas destacadas se gestionan en `content/homepage/recetas.md`. El flujo de rotación es el siguiente:
