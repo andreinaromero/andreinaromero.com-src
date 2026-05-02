@@ -23,9 +23,12 @@ categories: ["reposteria tradicional", "galletas"]
 
 ___
 
-Puedes ver el procedimiento completo aquí: 
+Puedes ver el procedimiento completo aquí:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQ_8p-xgC1M?si=Omyfj2BA4E6kHMWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ___
+
 
 ### Procedimiento
 

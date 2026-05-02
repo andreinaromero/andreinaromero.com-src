@@ -11,8 +11,11 @@ En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Iced Coffee de Fresa ☕](recipes/cafe_frio_fresa)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Red Velvet y Fresas 🍓](recipes/torta_red_velvet_fresas)
-__________________________________________
+
+___
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para listar todas las categorías de las recetas](categories)
+
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Click aquí para buscar alguna receta](search/)
 
