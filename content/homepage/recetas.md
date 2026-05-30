@@ -6,11 +6,11 @@ header_menu: true
 
 En esta sección muy pronto comenzarán a aparecer algunas recetas mágicamente!
 
+{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Pistacho y Chocolate 🍰](recipes/torta_pistacho_chocolate)
+
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Galletas chips de doble chocolate 🍪](recipes/galletas_doble_chocolate)
 
 {{<icon class="fa fa-hand-o-right">}}&nbsp;[Iced Coffee de Fresa ☕](recipes/cafe_frio_fresa)
-
-{{<icon class="fa fa-hand-o-right">}}&nbsp;[Torta de Red Velvet y Fresas 🍓](recipes/torta_red_velvet_fresas)
 
 ___
 
