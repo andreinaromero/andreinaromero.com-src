@@ -57,13 +57,11 @@ ___
 - Usar bandas húmedas alrededor de los moldes para que los bizcochos se horneen de forma uniforme y crezcan planos.
 
 **Elaboración del bizcocho:**
-- En un recipiente, mezclar muy bien los ingredientes líquidos: la leche, el ron, la vainilla y el colorante verde.
+- En un recipiente, mezclar muy bien los ingredientes líquidos: la leche, el ron, la vainilla, el colorante verde y la pasta de pistacho.
 - En un recipiente aparte, mezclar los ingredientes secos: la harina de trigo, el pistacho molido y el polvo de hornear. Tamizarlos, agregar la sal y revolver para distribuir uniformemente.
 - En la batidora de pedestal (o con batidora de mano eléctrica), colocar los huevos y el azúcar. Batir a velocidad media-alta por aproximadamente 5 minutos hasta que la mezcla duplique su volumen, esté espumosa y blanquee.
 - Reducir la velocidad de la batidora a baja e incorporar el aceite lentamente en forma de hilo continuo.
-- Agregar la pasta de pistacho y batir suavemente hasta integrar de forma homogénea.
-- Agregar la mezcla de ingredientes líquidos en un hilo constante a velocidad baja hasta incorporar del todo.
-- Retirar el tazón de la batidora. Agregar los ingredientes secos en tres tiempos utilizando un batidor de globo manual, haciendo movimientos suaves y envolventes a mano para no sobrebatir la mezcla.
+- Retirar el tazón de la batidora. Añadir los ingredientes secos (en tres tiempos) alternándolos con la mezcla de ingredientes líquidos, mezclando todo a mano con movimientos suaves y envolventes utilizando un batidor de globo manual para evitar sobrebatir y lograr que la torta quede perfectamente esponjosa.
 - Verter la preparación en partes iguales dentro de los dos moldes preparados de 20 cms.
 - Hornear a 170 °C por aproximadamente 30 minutos, o hasta que al introducir un palillo en el centro de los bizcochos, este salga limpio y seco.
 - Al salir del horno, dejar reposar los moldes sobre una rejilla durante 15 minutos. Luego, desmoldar con cuidado, retirar el papel parafinado del fondo y dejar enfriar por completo sobre la rejilla.
