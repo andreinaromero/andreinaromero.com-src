@@ -50,13 +50,13 @@ Puedes ver el procedimiento completo aquí:
 
 ___
 
-### Procedimiento previo
-- Sacar la mantequilla y la margarina del refrigerador con anticipación para que adquieran temperatura ambiente (pomada): la margarina hora y media antes, y la mantequilla una hora antes de preparar la crema.
+### Procedimiento del bizcocho de pistacho
+**Preparación previa:**
 - Precalentar el horno a 170 °C.
 - Preparar dos moldes de 20 cms de diámetro, engrasándolos, colocando papel parafinado en el fondo y cubriendo los lados.
 - Usar bandas húmedas alrededor de los moldes para que los bizcochos se horneen de forma uniforme y crezcan planos.
 
-### Procedimiento del bizcocho de pistacho
+**Elaboración del bizcocho:**
 - En un recipiente, mezclar muy bien los ingredientes líquidos: la leche, el ron, la vainilla y el colorante verde.
 - En un recipiente aparte, mezclar los ingredientes secos: la harina de trigo, el pistacho molido y el polvo de hornear. Tamizarlos, agregar la sal y revolver para distribuir uniformemente.
 - En la batidora de pedestal (o con batidora de mano eléctrica), colocar los huevos y el azúcar. Batir a velocidad media-alta por aproximadamente 5 minutos hasta que la mezcla duplique su volumen, esté espumosa y blanquee.
@@ -69,6 +69,10 @@ ___
 - Al salir del horno, dejar reposar los moldes sobre una rejilla durante 15 minutos. Luego, desmoldar con cuidado, retirar el papel parafinado del fondo y dejar enfriar por completo sobre la rejilla.
 
 ### Procedimiento de la crema de chocolate
+**Preparación previa:**
+- Sacar la mantequilla y la margarina del refrigerador con anticipación para que adquieran temperatura ambiente (pomada): la margarina hora y media antes, y la mantequilla una hora antes de comenzar la preparación.
+
+**Elaboración de la crema:**
 - En el tazón de la batidora a velocidad media-alta, batir la mantequilla y la margarina a temperatura ambiente durante 3 minutos hasta que blanqueen y estén bien cremosas.
 - Añadir el azúcar glas previamente tamizado por un colador y batir por otros 3 minutos a velocidad media-alta para obtener una textura aireada y suave.
 - Incorporar la pasta, extracto o esencia de vainilla y la pizca de sal. Batir por 1 minuto más para distribuir perfectamente el saborizante.
