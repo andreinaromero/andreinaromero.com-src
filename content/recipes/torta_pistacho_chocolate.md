@@ -44,10 +44,9 @@ ___
 
 ___
 
-Puedes ver el procedimiento completo aquí: 
+Puedes ver el procedimiento completo aquí:
 
-<!-- YOUTUBE_VIDEO_PLACEHOLDER -->
-*(Video en proceso de edición)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iz_T0fEoHPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ___
 
