@@ -61,7 +61,7 @@ ___
 - En un recipiente aparte, mezclar los ingredientes secos: la harina de trigo, el pistacho molido y el polvo de hornear. Tamizarlos, agregar la sal y revolver para distribuir uniformemente.
 - En la batidora de pedestal (o con batidora de mano eléctrica), colocar los huevos y el azúcar. Batir a velocidad media-alta por aproximadamente 5 minutos hasta que la mezcla duplique su volumen, esté espumosa y blanquee.
 - Reducir la velocidad de la batidora a baja e incorporar el aceite lentamente en forma de hilo continuo.
-- Retirar el tazón de la batidora. Añadir los ingredientes secos (en tres tiempos) alternándolos con la mezcla de ingredientes líquidos, mezclando todo a mano con movimientos suaves y envolventes utilizando un batidor de globo manual para evitar sobrebatir y lograr que la torta quede perfectamente esponjosa.
+- Añadir los ingredientes secos (en tres tiempos) alternándolos con la mezcla de ingredientes líquidos. Esto lo puedes hacer a mano con movimientos suaves utilizando un batidor de globo manual, o a velocidad muy baja en la batidora, teniendo especial cuidado de no sobrebatir la mezcla para lograr que el bizcocho quede perfectamente esponjoso.
 - Verter la preparación en partes iguales dentro de los dos moldes preparados de 20 cms.
 - Hornear a 170 °C por aproximadamente 30 minutos, o hasta que al introducir un palillo en el centro de los bizcochos, este salga limpio y seco.
 - Al salir del horno, dejar reposar los moldes sobre una rejilla durante 15 minutos. Luego, desmoldar con cuidado, retirar el papel parafinado del fondo y dejar enfriar por completo sobre la rejilla.
