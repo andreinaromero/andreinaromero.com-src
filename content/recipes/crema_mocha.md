@@ -5,7 +5,7 @@ categories: ["recetas base", "reposteria tradicional", "Cubiertas y Rellenos"]
 ---
 ![Crema Moccachino](../../images/crema_mocha.jpg)
 ___
-### Crema Sabor a Chocolate y Café
+### Crema Sabor a Chocolate y Café (Batch Estándar)
 
 | Ingrediente | Cantidad |
 | ----------- | ----------- |
@@ -19,6 +19,20 @@ ___
 | Agua caliente | 1 cucharada |
 | Café instantáneo en polvo | 1 cucharada |
 
+### Crema Sabor a Chocolate y Café (Batch Pequeño)
+
+| Ingrediente | Cantidad |
+| ----------- | ----------- |
+| Claras de huevo (3L) | 100 gramos |
+| Azúcar blanca granulada | 140 gramos |
+| Azúcar glass | 60 gramos |
+| Mantequilla sin sal | 300 gramos |
+| Extracto de Vainilla | 1 cucharadita |
+| Cremor tártaro | 1/8 cucharadita |
+| Chocolate oscuro derretido | 80 gramos |
+| Café instantáneo en polvo | 1 y 1/2 cucharada |
+| Agua caliente | 1 y 1/2 cucharada |
+
 ___
 
 Puedes ver el procedimiento completo aquí
@@ -30,7 +44,7 @@ Puedes ver el procedimiento completo aquí
 - Colocar esta mezcla al baño de María. Revolver constantemente hasta que no sientas granos de azúcar en la mezcla. Aproximadamente por 8 minutos.
 - Luego pasar esta mezcla al bowl de la batidora, en este caso yo utilicé batidora de pedestal. Puedes colar la mezcla para evitar cualquier pedacito de cáscara.
 - Batir a velocidad media por 5 minutos. Luego aumentar la velocidad a media alta hasta que el merengue se forme completamente y baje un poco la temperatura, esto es de 10 a 15 minutos. 
-- Derretir el chocolate y agregarle el café instantáneo disuelto en la cucharada de agua caliente.
+- Derretir el chocolate y agregarle el café instantáneo disuelto en el agua caliente.
 - Bajar la velocidad de la batidora a media baja.
 - Luego agregar la mantequilla poco a poco, para ello la puedes picar en cuadritos. Cuando se vaya incorporando cada cuadro de mantequilla es momento de agregar el siguiente. 
 - Cuando terminemos de agregar toda la mantequilla, aumentar la velocidad de la batidora a media alta y batir por 1 minuto.
